@@ -11,19 +11,31 @@ This project focuses on scraping mobile phone data from the Flipkart website, pr
 
 ## Dataset
 
-The dataset used in this project is created through web scraping from Flipkart's mobile phones listings. The extracted attributes include:
+The dataset used in this project is created through web scraping from Flipkart's mobile phones listings.
 
-* Mobile Phone Name
-* Brand
-* Price
-* Ratings
-* Number of Reviews
-* Specifications
-* Discounts
-* Product Links
-* Availability Status
+### 📊 Collection Preview: `mobile_phones`
+**Schema:**
+```json
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85af"
+  },
+  "Product Name": "Samsung Galaxy F07 (Green, 64 GB)",
+  "Offer": "16% off",
+  "Camera": "50MP + 2MP | 8MP Front Camera",
+  "Memory": "4 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) HD+ Display",
+  "Rating Number": 4.3,
+  "Sale Price": 9999,
+  "Actual Price": 11999,
+  "No of Reviews": 4,
+  "No of Ratings": 367
+}
+```
 
-**Data Source:** Flipkart Mobile Listings
+**Sample Documents:**
+You can view the full dataset in [mobile_phones.json](mobile_phones.json).
 
 ## Tools & Technologies Used
 
