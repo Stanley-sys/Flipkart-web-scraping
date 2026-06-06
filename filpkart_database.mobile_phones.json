@@ -1,0 +1,3844 @@
+[{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85af"
+  },
+  "Product Name": "Samsung Galaxy F07 (Green, 64 GB)",
+  "Offer": "16% off",
+  "Camera": "50MP + 2MP | 8MP Front Camera",
+  "Memory": "4 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) HD+ Display",
+  "Rating Number": 4.3,
+  "Sale Price": 9999,
+  "Actual Price": 11999,
+  "No of Reviews": 4,
+  "No of Ratings": 367
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85b0"
+  },
+  "Product Name": "realme P4 Lite (Sea Blue, 128 GB)",
+  "Offer": "No Offer",
+  "Camera": "13MP Rear Camera | 5MP Front Camera",
+  "Memory": "4 GB RAM | 128 GB ROM",
+  "Battery": "6300 mAh Battery",
+  "Display": "17.14 cm (6.75 inch) HD+ Display",
+  "Rating Number": 4.1,
+  "Sale Price": 13999,
+  "Actual Price": 13999,
+  "No of Reviews": 4,
+  "No of Ratings": 124
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85b1"
+  },
+  "Product Name": "MOTOROLA Edge 60 Fusion 5G (PANTONE Slipstream, 128 GB)",
+  "Offer": "8% off",
+  "Camera": "50MP + 13MP | 32MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+  "Battery": "5500 mAh Battery",
+  "Display": "16.94 cm (6.67 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 22999,
+  "Actual Price": 24999,
+  "No of Reviews": 4,
+  "No of Ratings": 7045
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85b2"
+  },
+  "Product Name": "realme P4 Lite (Beach Gold, 128 GB)",
+  "Offer": "No Offer",
+  "Camera": "13MP Rear Camera | 5MP Front Camera",
+  "Memory": "4 GB RAM | 128 GB ROM",
+  "Battery": "6300 mAh Battery",
+  "Display": "17.14 cm (6.75 inch) HD+ Display",
+  "Rating Number": 4.1,
+  "Sale Price": 13999,
+  "Actual Price": 13999,
+  "No of Reviews": 4,
+  "No of Ratings": 124
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85b3"
+  },
+  "Product Name": "IQOO Z11x 5G (Prismatic Green, 128 GB)",
+  "Offer": "24% off",
+  "Camera": "50MP Rear Camera",
+  "Memory": "6 GB RAM | 128 GB ROM",
+  "Battery": "7200 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) Display",
+  "Rating Number": 4.3,
+  "Sale Price": 21750,
+  "Actual Price": 28999,
+  "No of Reviews": 4,
+  "No of Ratings": 43
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85b4"
+  },
+  "Product Name": "Ai+ Pulse 1 (Sparkle Red, 128 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP Rear Camera | 5MP Front Camera",
+  "Memory": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.13 cm (6.745 inch) HD+ Display",
+  "Rating Number": 4,
+  "Sale Price": 9999,
+  "Actual Price": 9999,
+  "No of Reviews": 48996,
+  "No of Ratings": 567
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85b5"
+  },
+  "Product Name": "Samsung M06 5G (Sage Green, 128 GB)",
+  "Offer": "20% off",
+  "Camera": "50MP Rear Camera",
+  "Memory": "4 GB RAM | 128 GB ROM",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) Display",
+  "Rating Number": 4.1,
+  "Sale Price": 12376,
+  "Actual Price": 15499,
+  "No of Reviews": 4,
+  "No of Ratings": 119
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85b6"
+  },
+  "Product Name": "Samsung Galaxy F70e 5G (Limelight Green, 128 GB)",
+  "Offer": "21% off",
+  "Camera": "50MP + 2MP | 8MP Front Camera",
+  "Memory": "6 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+  "Battery": "6000 mAh Li-ion Battery",
+  "Display": "17.12 cm (6.74 inch) HD+ Display",
+  "Rating Number": 4.2,
+  "Sale Price": 16499,
+  "Actual Price": 20999,
+  "No of Reviews": 4,
+  "No of Ratings": 181
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85b7"
+  },
+  "Product Name": "Ai+ Pulse 2 (Purple, 64 GB)",
+  "Offer": "9% off",
+  "Camera": "50MP Rear Camera | 8MP Front Camera",
+  "Memory": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+  "Battery": "6000 mAh Battery",
+  "Display": "17.13 cm (6.745 inch) HD+ Display",
+  "Rating Number": 4.4,
+  "Sale Price": 9999,
+  "Actual Price": 10999,
+  "No of Reviews": 4,
+  "No of Ratings": 136
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85b8"
+  },
+  "Product Name": "POCO C85 5G Charger in the Box (Power Black, 128 GB)",
+  "Offer": "33% off",
+  "Camera": "50MP Rear Camera | 8MP Front Camera",
+  "Memory": "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+  "Battery": "6000 mAh Lithium-Ion Polymer Battery",
+  "Display": "17.53 cm (6.9 inch) HD+ Display",
+  "Rating Number": 3.8,
+  "Sale Price": 13999,
+  "Actual Price": 20999,
+  "No of Reviews": 3,
+  "No of Ratings": 103
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85b9"
+  },
+  "Product Name": "OPPO K14x 5G (Icy Blue, 64 GB)",
+  "Offer": "25% off",
+  "Camera": "50MP + 2MP | 5MP; f/2.2; FOV 77°; 3P lens",
+  "Memory": "4 GB RAM | 64 GB ROM",
+  "Battery": "6500 mAh Battery",
+  "Display": "17.14 cm (6.75 inch) HD+ Display",
+  "Rating Number": 4.3,
+  "Sale Price": 14999,
+  "Actual Price": 19999,
+  "No of Reviews": 4,
+  "No of Ratings": 187
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85ba"
+  },
+  "Product Name": "POCO M7 Plus 5G (Carbon Black, 128 GB)",
+  "Offer": "5% off",
+  "Camera": "50MP AI Dual Camera",
+  "Memory": "6 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.53 cm (6.9 inch) Display",
+  "Rating Number": 4.3,
+  "Sale Price": 15999,
+  "Actual Price": 16999,
+  "No of Reviews": 4,
+  "No of Ratings": 541
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85bb"
+  },
+  "Product Name": "Samsung M06 5G (Blazing Black, 128 GB)",
+  "Offer": "21% off",
+  "Camera": "50MP Rear Camera",
+  "Memory": "4 GB RAM | 128 GB ROM",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) Display",
+  "Rating Number": 4.1,
+  "Sale Price": 12175,
+  "Actual Price": 15499,
+  "No of Reviews": 4,
+  "No of Ratings": 119
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85bc"
+  },
+  "Product Name": "LAVA A3 King",
+  "Offer": "20% off",
+  "Camera": "0.3MP Front Camera",
+  "Memory": "4 MB RAM | 32 MB ROM | Expandable Upto 32 GB",
+  "Battery": "1750 mAh Battery",
+  "Display": "4.5 cm (1.77 inch) Display",
+  "Rating Number": 4.2,
+  "Sale Price": 1231,
+  "Actual Price": 1549,
+  "No of Reviews": 4,
+  "No of Ratings": 2916
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85bd"
+  },
+  "Product Name": "MOTOROLA Edge 70 Fusion (Pantone SILHOUETTE, 256 GB)",
+  "Offer": "34% off",
+  "Camera": "50MP + 13MP | 32MP Front Camera",
+  "Memory": "12 GB RAM | 256 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.27 cm (6.8 inch) Super HD Display",
+  "Rating Number": 4.3,
+  "Sale Price": 32999,
+  "Actual Price": 49999,
+  "No of Reviews": 4,
+  "No of Ratings": 162
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85be"
+  },
+  "Product Name": "Ai+ Pulse 2 (Blue, 64 GB)",
+  "Offer": "9% off",
+  "Camera": "50MP Rear Camera | 8MP Front Camera",
+  "Memory": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+  "Battery": "6000 mAh Battery",
+  "Display": "17.13 cm (6.745 inch) HD+ Display",
+  "Rating Number": 4.4,
+  "Sale Price": 9999,
+  "Actual Price": 10999,
+  "No of Reviews": 4,
+  "No of Ratings": 136
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85bf"
+  },
+  "Product Name": "IQOO Z11x 5G (Titan Black, 128 GB)",
+  "Offer": "23% off",
+  "Camera": "50MP Rear Camera",
+  "Memory": "8 GB RAM | 128 GB ROM",
+  "Battery": "7200 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 23649,
+  "Actual Price": 30999,
+  "No of Reviews": 4,
+  "No of Ratings": 65
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85c0"
+  },
+  "Product Name": "MOTOROLA g67 power 5G (Pantone CILANTRO, 256 GB)",
+  "Offer": "25% off",
+  "Camera": "50MP + 8MP | 32MP Front Camera",
+  "Memory": "12 GB RAM | 256 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) Full HD+ Display",
+  "Rating Number": 4.9,
+  "Sale Price": 22999,
+  "Actual Price": 30999,
+  "No of Reviews": 4,
+  "No of Ratings": 0
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85c1"
+  },
+  "Product Name": "POCO M7 Plus 5G (Aqua Blue, 128 GB)",
+  "Offer": "5% off",
+  "Camera": "50MP AI Dual Camera",
+  "Memory": "8 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.53 cm (6.9 inch) Display",
+  "Rating Number": 4.2,
+  "Sale Price": 16999,
+  "Actual Price": 17999,
+  "No of Reviews": 4,
+  "No of Ratings": 332
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85c2"
+  },
+  "Product Name": "realme P4 Lite 5G (Mosaic Blue, 128 GB)",
+  "Offer": "50% off",
+  "Camera": "13MP Rear Camera | 5MP Front Camera",
+  "Memory": "4 GB RAM | 128 GB ROM",
+  "Battery": "7000 mAh lithium-ion polymer Battery",
+  "Display": "17.27 cm (6.8 inches) HD+ Display",
+  "Rating Number": 4.3,
+  "Sale Price": 16499,
+  "Actual Price": 32999,
+  "No of Reviews": 4,
+  "No of Ratings": 267
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85c3"
+  },
+  "Product Name": "vivo T5x 5G (Cyber Green, 256 GB)",
+  "Offer": "20% off",
+  "Camera": "50MP + 2MP | 32MP Front Camera",
+  "Memory": "8 GB RAM | 256 GB ROM",
+  "Battery": "7200 mAh Li-ion Battery",
+  "Display": "17.17 cm (6.76 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 26999,
+  "Actual Price": 33999,
+  "No of Reviews": 4,
+  "No of Ratings": 756
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85c4"
+  },
+  "Product Name": "IQOO 15R 5G (Triumph Silver, 256 GB)",
+  "Offer": "11% off",
+  "Camera": "50MP Rear Camera",
+  "Memory": "8 GB RAM | 256 GB ROM",
+  "Battery": "7600 mAh Battery",
+  "Display": "16.74 cm (6.59 inch) Display",
+  "Rating Number": 4.6,
+  "Sale Price": 47788,
+  "Actual Price": 53999,
+  "No of Reviews": 4,
+  "No of Ratings": 17
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85c5"
+  },
+  "Product Name": "Samsung Guru Music 2 B310ED",
+  "Offer": "19% off",
+  "Camera": "2MP Rear Camera",
+  "Memory": "32 MB RAM | 32 MB ROM",
+  "Battery": "800 mAh Battery",
+  "Display": "4.57 cm (1.8 inch) Display",
+  "Rating Number": 3.1,
+  "Sale Price": 2001,
+  "Actual Price": 2498,
+  "No of Reviews": 3,
+  "No of Ratings": 2234
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85c6"
+  },
+  "Product Name": "Ai+ Pulse 2 (Green, 64 GB)",
+  "Offer": "9% off",
+  "Camera": "50MP Rear Camera | 8MP Front Camera",
+  "Memory": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+  "Battery": "6000 mAh Battery",
+  "Display": "17.13 cm (6.745 inch) HD+ Display",
+  "Rating Number": 4.4,
+  "Sale Price": 9999,
+  "Actual Price": 10999,
+  "No of Reviews": 4,
+  "No of Ratings": 136
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85c7"
+  },
+  "Product Name": "Ai+ Pulse 2 (Purple, 128 GB)",
+  "Offer": "8% off",
+  "Camera": "50MP Rear Camera | 8MP Front Camera",
+  "Memory": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+  "Battery": "6000 mAh Battery",
+  "Display": "17.13 cm (6.745 inch) HD+ Display",
+  "Rating Number": 3.8,
+  "Sale Price": 10999,
+  "Actual Price": 11999,
+  "No of Reviews": 3,
+  "No of Ratings": 226
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85c8"
+  },
+  "Product Name": "Samsung Galaxy F70e 5G (Limelight Green, 128 GB)",
+  "Offer": "23% off",
+  "Camera": "50MP + 2MP | 8MP Front Camera",
+  "Memory": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+  "Battery": "6000 mAh Li-ion Battery",
+  "Display": "17.12 cm (6.74 inch) HD+ Display",
+  "Rating Number": 4.1,
+  "Sale Price": 14499,
+  "Actual Price": 18999,
+  "No of Reviews": 4,
+  "No of Ratings": 185
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85c9"
+  },
+  "Product Name": "realme P4 Lite 5G (Mosaic Green, 64 GB)",
+  "Offer": "25% off",
+  "Camera": "13MP Rear Camera | 5MP Front Camera",
+  "Memory": "4 GB RAM | 64 GB ROM",
+  "Battery": "7000 mAh lithium-ion polymer Battery",
+  "Display": "17.27 cm (6.8 inches) HD+ Display",
+  "Rating Number": 4.3,
+  "Sale Price": 14999,
+  "Actual Price": 19999,
+  "No of Reviews": 4,
+  "No of Ratings": 267
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85ca"
+  },
+  "Product Name": "Samsung M06 5G (Sage Green, 128 GB)",
+  "Offer": "16% off",
+  "Camera": "50MP Rear Camera",
+  "Memory": "6 GB RAM | 128 GB ROM",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) Display",
+  "Rating Number": 4.1,
+  "Sale Price": 14134,
+  "Actual Price": 16999,
+  "No of Reviews": 4,
+  "No of Ratings": 77
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85cb"
+  },
+  "Product Name": "Nokia 105 Classic Single Sim Keypad Phone, Without Charger",
+  "Offer": "21% off",
+  "Camera": "0MP Front Camera",
+  "Memory": "32 MB RAM | 32 MB ROM",
+  "Battery": "800 mAh Battery",
+  "Display": "4.5 cm (1.77 inch) Display",
+  "Rating Number": 4,
+  "Sale Price": 1054,
+  "Actual Price": 1349,
+  "No of Reviews": 416072,
+  "No of Ratings": 695
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85cc"
+  },
+  "Product Name": "POCO C81 (Elite Black, 64 GB)",
+  "Offer": "45% off",
+  "Camera": "13MP Rear Camera | 8MP Front Camera",
+  "Memory": "4 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+  "Battery": "6300 mAh Lithium-Ion Polymer Battery",
+  "Display": "17.53 cm (6.9 inch) Display",
+  "Rating Number": 3.7,
+  "Sale Price": 10999,
+  "Actual Price": 19999,
+  "No of Reviews": 3,
+  "No of Ratings": 5
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85cd"
+  },
+  "Product Name": "Ai+ Pulse 2 (Pink, 128 GB)",
+  "Offer": "8% off",
+  "Camera": "50MP Rear Camera | 8MP Front Camera",
+  "Memory": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+  "Battery": "6000 mAh Battery",
+  "Display": "17.13 cm (6.745 inch) HD+ Display",
+  "Rating Number": 3.8,
+  "Sale Price": 10999,
+  "Actual Price": 11999,
+  "No of Reviews": 3,
+  "No of Ratings": 226
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85ce"
+  },
+  "Product Name": "itel it5262",
+  "Offer": "11% off",
+  "Camera": "0.8MP Rear Camera",
+  "Memory": "4 MB RAM | 4 MB ROM | Expandable Upto 32 GB",
+  "Battery": "2000 mAh Battery",
+  "Display": "6.1 cm (2.4 inch) Display",
+  "Rating Number": 4,
+  "Sale Price": 1411,
+  "Actual Price": 1599,
+  "No of Reviews": 42980,
+  "No of Ratings": 159
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85cf"
+  },
+  "Product Name": "MOTOROLA Moto A300 2026",
+  "Offer": "26% off",
+  "Camera": "1.3MP + 0MP | 0MP Front Camera",
+  "Memory": "4 MB RAM | 32 MB ROM | Expandable Upto 64 GB",
+  "Battery": "1000 mAh Battery",
+  "Display": "5.08 cm (2 inch) HVGA Display",
+  "Rating Number": 4.4,
+  "Sale Price": 1319,
+  "Actual Price": 1799,
+  "No of Reviews": 4,
+  "No of Ratings": 21
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85d0"
+  },
+  "Product Name": "Nokia 130 Music Dual Sim with Music Player, Dedicated Music Buttons",
+  "Offer": "10% off",
+  "Camera": "0MP Front Camera",
+  "Memory": "4 MB RAM | 4 MB ROM",
+  "Battery": "1450 mAh Battery",
+  "Display": "6.1 cm (2.4 inch) Display",
+  "Rating Number": 3.9,
+  "Sale Price": 1971,
+  "Actual Price": 2199,
+  "No of Reviews": 3,
+  "No of Ratings": 1420
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85d1"
+  },
+  "Product Name": "Nothing Phone (4a) (White, 128 GB)",
+  "Offer": "14% off",
+  "Camera": "50MP + 50MP + 8MP | 32MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM",
+  "Battery": "5400 mAh Lithium ion Battery",
+  "Display": "17.22 cm (6.78 inch) Full HD+ AMOLED Display",
+  "Rating Number": 4.4,
+  "Sale Price": 34999,
+  "Actual Price": 40999,
+  "No of Reviews": 4,
+  "No of Ratings": 425
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85d2"
+  },
+  "Product Name": "REDMI Note 15 SE 5G (Crimson Reserve, 256 GB)",
+  "Offer": "28% off",
+  "Camera": "50MP Rear Camera | 20MP Front Camera",
+  "Memory": "8 GB RAM | 256 GB ROM | Expandable Upto 1 TB",
+  "Battery": "5800 mAh Lithium-Ion Polymer Battery",
+  "Display": "17.2 cm (6.77 inch) Full HD+ AMOLED Display",
+  "Rating Number": 4.3,
+  "Sale Price": 26999,
+  "Actual Price": 37999,
+  "No of Reviews": 4,
+  "No of Ratings": 100
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85d3"
+  },
+  "Product Name": "Ai+ Pulse 2 (Blue, 128 GB)",
+  "Offer": "8% off",
+  "Camera": "50MP Rear Camera | 8MP Front Camera",
+  "Memory": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+  "Battery": "6000 mAh Battery",
+  "Display": "17.13 cm (6.745 inch) HD+ Display",
+  "Rating Number": 3.8,
+  "Sale Price": 10999,
+  "Actual Price": 11999,
+  "No of Reviews": 3,
+  "No of Ratings": 226
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85d4"
+  },
+  "Product Name": "MOTOROLA Edge 70 Fusion (Pantone COUNTRY AIR, 128 GB)",
+  "Offer": "37% off",
+  "Camera": "50MP + 13MP | 32MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.27 cm (6.8 inch) Super HD Display",
+  "Rating Number": 4.4,
+  "Sale Price": 26999,
+  "Actual Price": 42999,
+  "No of Reviews": 4,
+  "No of Ratings": 841
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85d5"
+  },
+  "Product Name": "Samsung Galaxy M06 5G (Blazing Black, 64 GB)",
+  "Offer": "3% off",
+  "Camera": "50MP Rear Camera",
+  "Memory": "4 GB RAM | 64 GB ROM",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) Display",
+  "Rating Number": 4.1,
+  "Sale Price": 12090,
+  "Actual Price": 12499,
+  "No of Reviews": 4,
+  "No of Ratings": 39
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85d6"
+  },
+  "Product Name": "Ai+ Nova 2 5G (Purple, 128 GB)",
+  "Offer": "6% off",
+  "Camera": "50MP Rear Camera | 8MP Front Camera",
+  "Memory": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+  "Battery": "6000 mAh Battery",
+  "Display": "17.13 cm (6.745 inch) HD+ Display",
+  "Rating Number": 4.2,
+  "Sale Price": 13999,
+  "Actual Price": 14999,
+  "No of Reviews": 4,
+  "No of Ratings": 76
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85d7"
+  },
+  "Product Name": "realme P4 Lite 5G (Mosaic Green, 128 GB)",
+  "Offer": "50% off",
+  "Camera": "13MP Rear Camera | 5MP Front Camera",
+  "Memory": "4 GB RAM | 128 GB ROM",
+  "Battery": "7000 mAh lithium-ion polymer Battery",
+  "Display": "17.27 cm (6.8 inches) HD+ Display",
+  "Rating Number": 4.3,
+  "Sale Price": 16499,
+  "Actual Price": 32999,
+  "No of Reviews": 4,
+  "No of Ratings": 267
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85d8"
+  },
+  "Product Name": "itel it5330 | 2.8 inch Big Display | 1900 mAh Battery | Kingvoice",
+  "Offer": "12% off",
+  "Camera": "0.8MP + 0MP | 0MP Front Camera",
+  "Memory": "32 MB RAM | 32 MB ROM | Expandable Upto 32 GB",
+  "Battery": "1900 mAh Battery",
+  "Display": "7.11 cm (2.8 inch) Quarter QVGA Display",
+  "Rating Number": 4.1,
+  "Sale Price": 1579,
+  "Actual Price": 1799,
+  "No of Reviews": 4,
+  "No of Ratings": 1528
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85d9"
+  },
+  "Product Name": "vivo T5x 5G (Cyber Green, 128 GB)",
+  "Offer": "20% off",
+  "Camera": "50MP + 2MP | 32MP Front Camera",
+  "Memory": "6 GB RAM | 128 GB ROM",
+  "Battery": "7200 mAh Li-ion Battery",
+  "Display": "17.17 cm (6.76 inch) Display",
+  "Rating Number": 4.3,
+  "Sale Price": 22999,
+  "Actual Price": 28999,
+  "No of Reviews": 4,
+  "No of Ratings": 487
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85da"
+  },
+  "Product Name": "OPPO K14x 5G (Prism Violet, 64 GB)",
+  "Offer": "25% off",
+  "Camera": "50MP + 2MP | 5MP; f/2.2; FOV 77°; 3P lens",
+  "Memory": "4 GB RAM | 64 GB ROM",
+  "Battery": "6500 mAh Battery",
+  "Display": "17.14 cm (6.75 inch) HD+ Display",
+  "Rating Number": 4.3,
+  "Sale Price": 14999,
+  "Actual Price": 19999,
+  "No of Reviews": 4,
+  "No of Ratings": 187
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85db"
+  },
+  "Product Name": "MOTOROLA G96 5G (Pantone Ashleigh Blue, 128 GB)",
+  "Offer": "9% off",
+  "Camera": "50MP + 8MP | 32MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM",
+  "Battery": "5500 mAh Battery",
+  "Display": "16.94 cm (6.67 inch) Full HD+ Display",
+  "Rating Number": 4.4,
+  "Sale Price": 18999,
+  "Actual Price": 20999,
+  "No of Reviews": 4,
+  "No of Ratings": 4994
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85dc"
+  },
+  "Product Name": "Nokia All-New 105 Single Sim Keypad Phone with Built-in UPI Payments",
+  "Offer": "16% off",
+  "Camera": "0MP | 0MP Front Camera",
+  "Memory": "32 MB RAM | 32 MB ROM",
+  "Battery": "1000 mAh Battery",
+  "Display": "4.5 cm (1.77 inch) Display",
+  "Rating Number": 3.7,
+  "Sale Price": 1332,
+  "Actual Price": 1599,
+  "No of Reviews": 3,
+  "No of Ratings": 6916
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85dd"
+  },
+  "Product Name": "POCO M8 Charger in the Box (Frost Silver, 128 GB)",
+  "Offer": "23% off",
+  "Camera": "50MP Rear Camera | 20MP Front Camera",
+  "Memory": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+  "Battery": "5520 mAh Battery",
+  "Display": "17.2 cm (6.77 inch) Full HD+ Display",
+  "Rating Number": 4.3,
+  "Sale Price": 19999,
+  "Actual Price": 25999,
+  "No of Reviews": 4,
+  "No of Ratings": 144
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85de"
+  },
+  "Product Name": "Apple iPhone 17 (Black, 256 GB)",
+  "Offer": "No Offer",
+  "Camera": "48MP + 48MP | 18MP Front Camera",
+  "Memory": "256 GB ROM",
+  "Battery": "A19 Chip, 6 Core Processor Processor",
+  "Display": "16.0 cm (6.3 inch) Super Retina XDR Display",
+  "Rating Number": 4.6,
+  "Sale Price": 82900,
+  "Actual Price": 82900,
+  "No of Reviews": 4,
+  "No of Ratings": 797
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85df"
+  },
+  "Product Name": "MOTOROLA G96 5G (Pantone Ashleigh Blue, 128 GB)",
+  "Offer": "9% off",
+  "Camera": "50MP + 8MP | 32MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM",
+  "Battery": "5500 mAh Battery",
+  "Display": "16.94 cm (6.67 inch) Full HD+ Display",
+  "Rating Number": 4.4,
+  "Sale Price": 18999,
+  "Actual Price": 20999,
+  "No of Reviews": 4,
+  "No of Ratings": 4994
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85e0"
+  },
+  "Product Name": "MOTOROLA g35 5G (Leaf Green, 128 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP + 8MP | 16MP Front Camera",
+  "Memory": "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.07 cm (6.72 inch) Full HD+ Display",
+  "Rating Number": 4.2,
+  "Sale Price": 12499,
+  "Actual Price": 12499,
+  "No of Reviews": 4,
+  "No of Ratings": 8496
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85e1"
+  },
+  "Product Name": "Samsung Guru Music 2 B310ED Blue",
+  "Offer": "19% off",
+  "Camera": "800 mAh Battery",
+  "Memory": "16 MB RAM | 32 MB ROM",
+  "Battery": "1-year manufacturer warranty for the device and 6 months for in-box accessories (including batteries, chargers, and headsets) from the date of purchase",
+  "Display": "5.08 cm (2 inch) NA Display",
+  "Rating Number": {
+    "$numberDouble": "NaN"
+  },
+  "Sale Price": 2001,
+  "Actual Price": 2498,
+  "No of Reviews": null,
+  "No of Ratings": null
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85e2"
+  },
+  "Product Name": "IQOO Z11x 5G (Prismatic Green, 128 GB)",
+  "Offer": "24% off",
+  "Camera": "50MP Rear Camera",
+  "Memory": "8 GB RAM | 128 GB ROM",
+  "Battery": "7200 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 23415,
+  "Actual Price": 30999,
+  "No of Reviews": 4,
+  "No of Ratings": 65
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85e3"
+  },
+  "Product Name": "Nokia All-New 105 Single Sim Keypad Phone with Built-in UPI Payments",
+  "Offer": "16% off",
+  "Camera": "0MP | 0MP Front Camera",
+  "Memory": "32 MB RAM | 32 MB ROM",
+  "Battery": "1000 mAh Battery",
+  "Display": "4.5 cm (1.77 inch) Display",
+  "Rating Number": 3.7,
+  "Sale Price": 1332,
+  "Actual Price": 1599,
+  "No of Reviews": 3,
+  "No of Ratings": 6916
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85e4"
+  },
+  "Product Name": "Tecno Pova 7 Pro 5G (Neon Cyan, 256 GB)",
+  "Offer": "19% off",
+  "Camera": "64MP + 8MP | 13MP Front Camera",
+  "Memory": "8 GB RAM | 256 GB ROM",
+  "Battery": "6000 mAh Battery",
+  "Display": "17.22 cm (6.78 inch) Full HD+ AMOLED Display",
+  "Rating Number": 4.4,
+  "Sale Price": 19374,
+  "Actual Price": 23999,
+  "No of Reviews": 4,
+  "No of Ratings": 553
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85e5"
+  },
+  "Product Name": "IQOO 15R 5G (Dark Knight, 256 GB)",
+  "Offer": "11% off",
+  "Camera": "50MP Rear Camera",
+  "Memory": "8 GB RAM | 256 GB ROM",
+  "Battery": "7600 mAh Battery",
+  "Display": "16.74 cm (6.59 inch) Display",
+  "Rating Number": 4.6,
+  "Sale Price": 48000,
+  "Actual Price": 53999,
+  "No of Reviews": 4,
+  "No of Ratings": 17
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85e6"
+  },
+  "Product Name": "POCO C85 5G Charger in the Box (Mystic Purple, 128 GB)",
+  "Offer": "33% off",
+  "Camera": "50MP Rear Camera | 8MP Front Camera",
+  "Memory": "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+  "Battery": "6000 mAh Lithium-Ion Polymer Battery",
+  "Display": "17.53 cm (6.9 inch) HD+ Display",
+  "Rating Number": 3.8,
+  "Sale Price": 13999,
+  "Actual Price": 20999,
+  "No of Reviews": 3,
+  "No of Ratings": 103
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85e7"
+  },
+  "Product Name": "Nokia 130 Music Dual Sim with Music Player, Dedicated Music Buttons",
+  "Offer": "10% off",
+  "Camera": "0MP Front Camera",
+  "Memory": "4 MB RAM | 4 MB ROM",
+  "Battery": "1450 mAh Battery",
+  "Display": "6.1 cm (2.4 inch) Display",
+  "Rating Number": 3.9,
+  "Sale Price": 1971,
+  "Actual Price": 2199,
+  "No of Reviews": 3,
+  "No of Ratings": 1420
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85e8"
+  },
+  "Product Name": "vivo T5 Pro 5G (Cosmic Black, 256 GB)",
+  "Offer": "45% off",
+  "Camera": "50MP + 2MP | 32MP Front Camera",
+  "Memory": "8 GB RAM | 256 GB ROM",
+  "Battery": "9020 mAh Battery",
+  "Display": "17.35 cm (6.83 inch) Full HD+ AMOLED Display",
+  "Rating Number": 4.4,
+  "Sale Price": 33999,
+  "Actual Price": 61999,
+  "No of Reviews": 4,
+  "No of Ratings": 310
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85e9"
+  },
+  "Product Name": "realme 15 Pro 5G (Velvet Green, 256 GB)",
+  "Offer": "25% off",
+  "Camera": "50MP + 50MP | 50MP Front Camera",
+  "Memory": "8 GB RAM | 256 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.27 cm (6.8 inch) Display",
+  "Rating Number": 4.3,
+  "Sale Price": 28499,
+  "Actual Price": 37999,
+  "No of Reviews": 4,
+  "No of Ratings": 858
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85ea"
+  },
+  "Product Name": "REDMI 15A (Amaze Purple, 128 GB)",
+  "Offer": "19% off",
+  "Camera": "32MP Rear Camera | 8MP Front Camera",
+  "Memory": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+  "Battery": "6300 mAh Lithium-Ion Polymer Battery",
+  "Display": "17.53 cm (6.9 inch) Display",
+  "Rating Number": 3.9,
+  "Sale Price": 14499,
+  "Actual Price": 17999,
+  "No of Reviews": 3,
+  "No of Ratings": 19
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85eb"
+  },
+  "Product Name": "Samsung Galaxy A07 LTE (Light Violet, 64 GB)",
+  "Offer": "5% off",
+  "Camera": "50MP + 2MP",
+  "Memory": "4 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) HD+ Display",
+  "Rating Number": 4.2,
+  "Sale Price": 9962,
+  "Actual Price": 10499,
+  "No of Reviews": 4,
+  "No of Ratings": 27
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85ec"
+  },
+  "Product Name": "POCO M7 Pro 5G (Olive Twilight, 128 GB)",
+  "Offer": "21% off",
+  "Camera": "50MP + 2MP | 20MP Front Camera",
+  "Memory": "6 GB RAM | 128 GB ROM",
+  "Battery": "5110 mAh Battery",
+  "Display": "16.94 cm (6.67 inch) Full HD+ Display",
+  "Rating Number": 4.3,
+  "Sale Price": 14999,
+  "Actual Price": 18999,
+  "No of Reviews": 4,
+  "No of Ratings": 2881
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85ed"
+  },
+  "Product Name": "OnePlus Nord CE6 Lite (Hyper Black, 128 GB)",
+  "Offer": "26% off",
+  "Camera": "50MP Rear Camera | 50MP Front Camera",
+  "Memory": "6 GB RAM | 128 GB ROM | Expandable Upto 128 GB",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.07 cm (6.72 inch) Full HD+ Display",
+  "Rating Number": 3.9,
+  "Sale Price": 23637,
+  "Actual Price": 31999,
+  "No of Reviews": 3,
+  "No of Ratings": 5
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85ee"
+  },
+  "Product Name": "realme P4 Lite 5G (Mosaic Blue, 64 GB)",
+  "Offer": "25% off",
+  "Camera": "13MP Rear Camera | 5MP Front Camera",
+  "Memory": "4 GB RAM | 64 GB ROM",
+  "Battery": "7000 mAh lithium-ion polymer Battery",
+  "Display": "17.27 cm (6.8 inches) HD+ Display",
+  "Rating Number": 4.3,
+  "Sale Price": 14999,
+  "Actual Price": 19999,
+  "No of Reviews": 4,
+  "No of Ratings": 267
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85ef"
+  },
+  "Product Name": "Ai+ Nova 2 5G (Purple, 64 GB)",
+  "Offer": "14% off",
+  "Camera": "50MP Rear Camera | 8MP Front Camera",
+  "Memory": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+  "Battery": "6000 mAh Battery",
+  "Display": "17.13 cm (6.745 inch) HD+ Display",
+  "Rating Number": 4.4,
+  "Sale Price": 11999,
+  "Actual Price": 13999,
+  "No of Reviews": 4,
+  "No of Ratings": 46
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85f0"
+  },
+  "Product Name": "Samsung M36 5G (Velvet Black / Black, 128 GB)",
+  "Offer": "19% off",
+  "Camera": "50MP Rear Camera",
+  "Memory": "6 GB RAM | 128 GB ROM",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) Display",
+  "Rating Number": 4.3,
+  "Sale Price": 18509,
+  "Actual Price": 22999,
+  "No of Reviews": 4,
+  "No of Ratings": 220
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85f1"
+  },
+  "Product Name": "POCO C85 5G Charger in the Box (Power Black, 128 GB)",
+  "Offer": "32% off",
+  "Camera": "50MP Rear Camera | 8MP Front Camera",
+  "Memory": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+  "Battery": "6000 mAh Lithium-Ion Polymer Battery",
+  "Display": "17.53 cm (6.9 inch) HD+ Display",
+  "Rating Number": 4.3,
+  "Sale Price": 15499,
+  "Actual Price": 22999,
+  "No of Reviews": 4,
+  "No of Ratings": 38
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85f2"
+  },
+  "Product Name": "vivo T5x 5G (Cyber Green, 128 GB)",
+  "Offer": "19% off",
+  "Camera": "50MP + 2MP | 32MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM",
+  "Battery": "7200 mAh Li-ion Battery",
+  "Display": "17.17 cm (6.76 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 24999,
+  "Actual Price": 30999,
+  "No of Reviews": 4,
+  "No of Ratings": 756
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85f3"
+  },
+  "Product Name": "realme P4 Power 5G (TransOrange, 128 GB)",
+  "Offer": "9% off",
+  "Camera": "50MP + 8MP | Yes",
+  "Memory": "8 GB RAM | 128 GB ROM",
+  "Battery": "10001 mAh Battery",
+  "Display": "17.27 cm (6.8 inch) Full HD+ AMOLED Display",
+  "Rating Number": 4.5,
+  "Sale Price": 29999,
+  "Actual Price": 32999,
+  "No of Reviews": 4,
+  "No of Ratings": 429
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85f4"
+  },
+  "Product Name": "POCO C85x Charger in the Box (Sunset Gold, 64 GB)",
+  "Offer": "40% off",
+  "Camera": "32MP Rear Camera",
+  "Memory": "4 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+  "Battery": "6300 mAh Lithium-Ion Polymer Battery",
+  "Display": "17.53 cm (6.9 inch) HD+ Display",
+  "Rating Number": 4.1,
+  "Sale Price": 12499,
+  "Actual Price": 20999,
+  "No of Reviews": 4,
+  "No of Ratings": 77
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85f5"
+  },
+  "Product Name": "HOTLINE H310",
+  "Offer": "50% off",
+  "Camera": "0.3MP Rear Camera",
+  "Memory": "32 MB RAM | 32 MB ROM",
+  "Battery": "1000 mAh Battery",
+  "Display": "4.57 cm (1.8 inch) Display",
+  "Rating Number": 3.5,
+  "Sale Price": 499,
+  "Actual Price": 999,
+  "No of Reviews": 3,
+  "No of Ratings": 503
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85f6"
+  },
+  "Product Name": "OPPO K14 5G (Prism Violet, 256 GB)",
+  "Offer": "20% off",
+  "Camera": "50MP Rear Camera | 8MP Front Camera",
+  "Memory": "8 GB RAM | 256 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.14 cm (6.75 inch) HD+ Display",
+  "Rating Number": 4.2,
+  "Sale Price": 23999,
+  "Actual Price": 29999,
+  "No of Reviews": 4,
+  "No of Ratings": 38
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85f7"
+  },
+  "Product Name": "Nokia All-New 105 Single Sim Keypad Phone with Built-in UPI Payments",
+  "Offer": "16% off",
+  "Camera": "0MP | 0MP Front Camera",
+  "Memory": "32 MB RAM | 32 MB ROM",
+  "Battery": "1000 mAh Battery",
+  "Display": "4.5 cm (1.77 inch) Display",
+  "Rating Number": 3.7,
+  "Sale Price": 1331,
+  "Actual Price": 1599,
+  "No of Reviews": 3,
+  "No of Ratings": 6916
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85f8"
+  },
+  "Product Name": "realme P4x 5G (Elegant Pink, 128 GB)",
+  "Offer": "4% off",
+  "Camera": "50MP + 2MP | 8MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.07 cm (6.72 inch) Full HD+ Display",
+  "Rating Number": 4.3,
+  "Sale Price": 22499,
+  "Actual Price": 23499,
+  "No of Reviews": 4,
+  "No of Ratings": 401
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85f9"
+  },
+  "Product Name": "Kechaoda A27",
+  "Offer": "38% off",
+  "Camera": "0MP | 0MP Front Camera",
+  "Memory": "32 MB RAM | 32 MB ROM | Expandable Upto 16 GB",
+  "Battery": "800 mAh Battery",
+  "Display": "1.68 cm (0.66 inch) QVGA Display",
+  "Rating Number": 4,
+  "Sale Price": 929,
+  "Actual Price": 1499,
+  "No of Reviews": 416929,
+  "No of Ratings": 896
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85fa"
+  },
+  "Product Name": "OPPO K14x 5G (Prism Violet, 128 GB)",
+  "Offer": "5% off",
+  "Camera": "50MP + 2MP | 5MP; f/2.2; FOV 77°; 3P lens",
+  "Memory": "4 GB RAM | 128 GB ROM",
+  "Battery": "6500 mAh Battery",
+  "Display": "17.14 cm (6.75 inch) HD+ Display",
+  "Rating Number": 4.3,
+  "Sale Price": 16999,
+  "Actual Price": 17999,
+  "No of Reviews": 4,
+  "No of Ratings": 187
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85fb"
+  },
+  "Product Name": "vivo T5x 5G (Star Silver, 128 GB)",
+  "Offer": "20% off",
+  "Camera": "50MP + 2MP | 32MP Front Camera",
+  "Memory": "6 GB RAM | 128 GB ROM",
+  "Battery": "7200 mAh Li-ion Battery",
+  "Display": "17.17 cm (6.76 inch) Display",
+  "Rating Number": 4.3,
+  "Sale Price": 22999,
+  "Actual Price": 28999,
+  "No of Reviews": 4,
+  "No of Ratings": 487
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85fc"
+  },
+  "Product Name": "OPPO K14 5G (Prism Violet, 256 GB)",
+  "Offer": "20% off",
+  "Camera": "50MP Rear Camera | 8MP Front Camera",
+  "Memory": "8 GB RAM | 256 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.14 cm (6.75 inch) HD+ Display",
+  "Rating Number": 4.2,
+  "Sale Price": 23999,
+  "Actual Price": 29999,
+  "No of Reviews": 4,
+  "No of Ratings": 38
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85fd"
+  },
+  "Product Name": "realme P4 5G (Steel Grey, 256 GB)",
+  "Offer": "20% off",
+  "Camera": "50MP + 8MP | 16MP Front Camera",
+  "Memory": "8 GB RAM | 256 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.2 cm (6.77 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 26999,
+  "Actual Price": 33999,
+  "No of Reviews": 4,
+  "No of Ratings": 1259
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85fe"
+  },
+  "Product Name": "realme Narzo 90x 5G (Flash Blue, 128 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP Rear Camera",
+  "Memory": "6 GB RAM | 128 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.27 cm (6.8 inch) Display",
+  "Rating Number": 4.3,
+  "Sale Price": 16950,
+  "Actual Price": 16999,
+  "No of Reviews": 4,
+  "No of Ratings": 146
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d85ff"
+  },
+  "Product Name": "Micromax X778",
+  "Offer": "32% off",
+  "Camera": "0.3MP Rear Camera",
+  "Memory": "32 MB RAM | 32 MB ROM",
+  "Battery": "2700 mAh Battery",
+  "Display": "6.1 cm (2.4 inch) Display",
+  "Rating Number": 3.9,
+  "Sale Price": 1340,
+  "Actual Price": 1999,
+  "No of Reviews": 3,
+  "No of Ratings": 440
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8600"
+  },
+  "Product Name": "Nothing Phone (3) (Black, 512 GB)",
+  "Offer": "36% off",
+  "Camera": "50MP + 50MP + 50MP | 50MP Front Camera",
+  "Memory": "16 GB RAM | 512 GB ROM",
+  "Battery": "5500 mAh Battery",
+  "Display": "16.94 cm (6.67 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 59999,
+  "Actual Price": 94999,
+  "No of Reviews": 4,
+  "No of Ratings": 71
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8601"
+  },
+  "Product Name": "OPPO K14 5G (Prism White, 128 GB)",
+  "Offer": "23% off",
+  "Camera": "50MP Rear Camera | 8MP Front Camera",
+  "Memory": "6 GB RAM | 128 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.14 cm (6.75 inch) HD+ Display",
+  "Rating Number": 4.3,
+  "Sale Price": 19999,
+  "Actual Price": 25999,
+  "No of Reviews": 4,
+  "No of Ratings": 60
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8602"
+  },
+  "Product Name": "Samsung M36 5G (Velvet Black / Black, 128 GB)",
+  "Offer": "19% off",
+  "Camera": "50MP Rear Camera",
+  "Memory": "6 GB RAM | 128 GB ROM",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) Display",
+  "Rating Number": 4.3,
+  "Sale Price": 18509,
+  "Actual Price": 22999,
+  "No of Reviews": 4,
+  "No of Ratings": 220
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8603"
+  },
+  "Product Name": "OPPO Reno14 5G (Pearl White, 256 GB)",
+  "Offer": "20% off",
+  "Camera": "50MP + 8MP + 50MP | 50MP Front Camera",
+  "Memory": "8 GB RAM | 256 GB ROM",
+  "Battery": "6000 mAh Battery",
+  "Display": "16.74 cm (6.59 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 33999,
+  "Actual Price": 42999,
+  "No of Reviews": 4,
+  "No of Ratings": 473
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8604"
+  },
+  "Product Name": "Kechaoda K115",
+  "Offer": "31% off",
+  "Camera": "0.3MP + 0MP | 0MP Front Camera",
+  "Memory": "32 MB RAM | 32 MB ROM | Expandable Upto 32 GB",
+  "Battery": "850 mAh Battery",
+  "Display": "3.66 cm (1.44 inch) QVGA Display",
+  "Rating Number": 4.1,
+  "Sale Price": 1029,
+  "Actual Price": 1499,
+  "No of Reviews": 4,
+  "No of Ratings": 2732
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8605"
+  },
+  "Product Name": "POCO C75 5G (Aqua Bliss, 64 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP Rear Camera | 5MP Front Camera",
+  "Memory": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+  "Battery": "5160 mAh Battery",
+  "Display": "17.48 cm (6.88 inch) HD+ Display",
+  "Rating Number": 4.2,
+  "Sale Price": 10999,
+  "Actual Price": 10999,
+  "No of Reviews": 4,
+  "No of Ratings": 6805
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8606"
+  },
+  "Product Name": "Ai+ Pulse 1 (Pink, 128 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP Rear Camera | 5MP Front Camera",
+  "Memory": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.13 cm (6.745 inch) HD+ Display",
+  "Rating Number": 4,
+  "Sale Price": 9999,
+  "Actual Price": 9999,
+  "No of Reviews": 48996,
+  "No of Ratings": 567
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8607"
+  },
+  "Product Name": "Infinix Note 50s 5G+ (Titanium Grey, 128 GB)",
+  "Offer": "No Offer",
+  "Camera": "64MP + 2MP | 13MP Front Camera",
+  "Memory": "6 GB RAM | 128 GB ROM",
+  "Battery": "5500 mAh Battery",
+  "Display": "17.22 cm (6.78 inch) Full HD+ Display",
+  "Rating Number": 4.3,
+  "Sale Price": 19999,
+  "Actual Price": 19999,
+  "No of Reviews": 4,
+  "No of Ratings": 720
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8608"
+  },
+  "Product Name": "Samsung Galaxy M06 5G (Sage Green, 64 GB)",
+  "Offer": "1% off",
+  "Camera": "50MP Rear Camera",
+  "Memory": "4 GB RAM | 64 GB ROM",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) Display",
+  "Rating Number": 4.1,
+  "Sale Price": 12296,
+  "Actual Price": 12499,
+  "No of Reviews": 4,
+  "No of Ratings": 39
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8609"
+  },
+  "Product Name": "REDMI A7 Pro (Black, 64 GB)",
+  "Offer": "28% off",
+  "Camera": "13MP Rear Camera | 8MP Front Camera",
+  "Memory": "4 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+  "Battery": "6300 mAh Lithium-Ion Battery",
+  "Display": "17.53 cm (6.9 inch) HD+ Display",
+  "Rating Number": 3.6,
+  "Sale Price": 11499,
+  "Actual Price": 15999,
+  "No of Reviews": 3,
+  "No of Ratings": 8
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d860a"
+  },
+  "Product Name": "realme Narzo 90X 5G (Marine Blue, 128 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP Rear Camera | 8MP Front Camera",
+  "Memory": "4 GB RAM | 128 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.27 cm (6.8 inch) HD+ Display",
+  "Rating Number": 4.1,
+  "Sale Price": 15883,
+  "Actual Price": 15999,
+  "No of Reviews": 4,
+  "No of Ratings": 14
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d860b"
+  },
+  "Product Name": "POCO M7 Plus 5G (Aqua Blue, 128 GB)",
+  "Offer": "5% off",
+  "Camera": "50MP AI Dual Camera",
+  "Memory": "6 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.53 cm (6.9 inch) Display",
+  "Rating Number": 4.3,
+  "Sale Price": 15999,
+  "Actual Price": 16999,
+  "No of Reviews": 4,
+  "No of Ratings": 541
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d860c"
+  },
+  "Product Name": "realme Narzo 90x 5G (Flash Blue, 128 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP Rear Camera",
+  "Memory": "8 GB RAM | 128 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.27 cm (6.8 inch) Display",
+  "Rating Number": 4.3,
+  "Sale Price": 17997,
+  "Actual Price": 17999,
+  "No of Reviews": 4,
+  "No of Ratings": 47
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d860d"
+  },
+  "Product Name": "MOTOROLA g67 power 5G (Pantone BLUE CURACAO, 256 GB)",
+  "Offer": "25% off",
+  "Camera": "50MP + 8MP | 32MP Front Camera",
+  "Memory": "12 GB RAM | 256 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) Full HD+ Display",
+  "Rating Number": 4.9,
+  "Sale Price": 22999,
+  "Actual Price": 30999,
+  "No of Reviews": 4,
+  "No of Ratings": 0
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d860e"
+  },
+  "Product Name": "Ai+ Pulse 2 (Black, 128 GB)",
+  "Offer": "8% off",
+  "Camera": "50MP Rear Camera | 8MP Front Camera",
+  "Memory": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+  "Battery": "6000 mAh Battery",
+  "Display": "17.13 cm (6.745 inch) HD+ Display",
+  "Rating Number": 3.8,
+  "Sale Price": 10999,
+  "Actual Price": 11999,
+  "No of Reviews": 3,
+  "No of Ratings": 226
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d860f"
+  },
+  "Product Name": "REDMI A7 Pro (Black, 64 GB)",
+  "Offer": "28% off",
+  "Camera": "13MP Rear Camera | 8MP Front Camera",
+  "Memory": "4 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+  "Battery": "6300 mAh Lithium-Ion Battery",
+  "Display": "17.53 cm (6.9 inch) HD+ Display",
+  "Rating Number": 3.6,
+  "Sale Price": 11499,
+  "Actual Price": 15999,
+  "No of Reviews": 3,
+  "No of Ratings": 8
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8610"
+  },
+  "Product Name": "vivo X200T (Stellar Black, 256 GB)",
+  "Offer": "25% off",
+  "Camera": "50MP + 50MP + 50MP | 32MP Front Camera",
+  "Memory": "12 GB RAM | 256 GB ROM",
+  "Battery": "6200 mAh Battery",
+  "Display": "16.94 cm (6.67 inch) Full HD+ AMOLED Display",
+  "Rating Number": 4.6,
+  "Sale Price": 59999,
+  "Actual Price": 79999,
+  "No of Reviews": 4,
+  "No of Ratings": 720
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8611"
+  },
+  "Product Name": "MOTOROLA Edge 60 Fusion 5G (PANTONE Amazonite, 128 GB)",
+  "Offer": "8% off",
+  "Camera": "50MP + 13MP | 32MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+  "Battery": "5500 mAh Battery",
+  "Display": "16.94 cm (6.67 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 22999,
+  "Actual Price": 24999,
+  "No of Reviews": 4,
+  "No of Ratings": 7045
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8612"
+  },
+  "Product Name": "OPPO K13 5G with 7000mAh and 80W SUPERVOOC Charger In-The-Box (Icy Purple, 256 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP + 2MP | 16MP Front Camera",
+  "Memory": "8 GB RAM | 256 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "16.94 cm (6.67 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 24999,
+  "Actual Price": 24999,
+  "No of Reviews": 4,
+  "No of Ratings": 4942
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8613"
+  },
+  "Product Name": "realme Narzo 90x 5G (Flash Blue, 128 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP Rear Camera",
+  "Memory": "8 GB RAM | 128 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.27 cm (6.8 inch) Display",
+  "Rating Number": 4.3,
+  "Sale Price": 17997,
+  "Actual Price": 17999,
+  "No of Reviews": 4,
+  "No of Ratings": 47
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8614"
+  },
+  "Product Name": "OPPO K13 5G with 7000mAh and 80W SUPERVOOC Charger In-The-Box (Icy Purple, 128 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP + 2MP | 16MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "16.94 cm (6.67 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 22999,
+  "Actual Price": 22999,
+  "No of Reviews": 4,
+  "No of Ratings": 4942
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8615"
+  },
+  "Product Name": "REDMI 15A (Amaze Purple, 64 GB)",
+  "Offer": "20% off",
+  "Camera": "32MP Rear Camera | 8MP Front Camera",
+  "Memory": "4 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+  "Battery": "6300 mAh Lithium-Ion Polymer Battery",
+  "Display": "17.53 cm (6.9 inch) Display",
+  "Rating Number": 3.9,
+  "Sale Price": 13499,
+  "Actual Price": 16999,
+  "No of Reviews": 3,
+  "No of Ratings": 19
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8616"
+  },
+  "Product Name": "Samsung Galaxy F06 5G (Lit Violet, 64 GB)",
+  "Offer": "16% off",
+  "Camera": "50MP + 2MP | 8MP Front Camera",
+  "Memory": "4 GB RAM | 64 GB ROM | Expandable Upto 1500 GB",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) HD+ Display",
+  "Rating Number": 4.2,
+  "Sale Price": 12499,
+  "Actual Price": 14999,
+  "No of Reviews": 4,
+  "No of Ratings": 2919
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8617"
+  },
+  "Product Name": "itel Ace 3 Shine",
+  "Offer": "16% off",
+  "Camera": "1000 mAh Battery",
+  "Memory": "4 MB RAM | 4 MB ROM | Expandable Upto 32 GB",
+  "Battery": "Unisoc Processor",
+  "Display": "4.57 cm (1.8 inch) QVGA Display",
+  "Rating Number": 4.1,
+  "Sale Price": 1049,
+  "Actual Price": 1249,
+  "No of Reviews": 4,
+  "No of Ratings": 78
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8618"
+  },
+  "Product Name": "Ai+ Pulse 2 (Black, 128 GB)",
+  "Offer": "8% off",
+  "Camera": "50MP Rear Camera | 8MP Front Camera",
+  "Memory": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+  "Battery": "6000 mAh Battery",
+  "Display": "17.13 cm (6.745 inch) HD+ Display",
+  "Rating Number": 3.8,
+  "Sale Price": 10999,
+  "Actual Price": 11999,
+  "No of Reviews": 3,
+  "No of Ratings": 226
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8619"
+  },
+  "Product Name": "LAVA A7 Torch+",
+  "Offer": "10% off",
+  "Camera": "0.3MP + 0MP | 0MP Front Camera",
+  "Memory": "4 MB RAM | 32 MB ROM | Expandable Upto 32 GB",
+  "Battery": "2575 mAh Battery",
+  "Display": "6.1 cm (2.4 inch) Quarter QVGA Display",
+  "Rating Number": 4,
+  "Sale Price": 1698,
+  "Actual Price": 1899,
+  "No of Reviews": 41779,
+  "No of Ratings": 132
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d861a"
+  },
+  "Product Name": "POCO C75 5G (Silver Stardust, 64 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP Rear Camera | 5MP Front Camera",
+  "Memory": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+  "Battery": "5160 mAh Battery",
+  "Display": "17.48 cm (6.88 inch) HD+ Display",
+  "Rating Number": 4.2,
+  "Sale Price": 10999,
+  "Actual Price": 10999,
+  "No of Reviews": 4,
+  "No of Ratings": 6805
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d861b"
+  },
+  "Product Name": "itel it5262",
+  "Offer": "11% off",
+  "Camera": "0.8MP Rear Camera",
+  "Memory": "4 MB RAM | 4 MB ROM | Expandable Upto 32 GB",
+  "Battery": "2000 mAh Battery",
+  "Display": "6.1 cm (2.4 inch) Display",
+  "Rating Number": 4,
+  "Sale Price": 1411,
+  "Actual Price": 1599,
+  "No of Reviews": 42980,
+  "No of Ratings": 159
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d861c"
+  },
+  "Product Name": "realme P4 Power 5G (TransOrange, 256 GB)",
+  "Offer": "8% off",
+  "Camera": "50MP + 8MP | Yes",
+  "Memory": "8 GB RAM | 256 GB ROM",
+  "Battery": "10001 mAh Battery",
+  "Display": "17.27 cm (6.8 inch) Full HD+ AMOLED Display",
+  "Rating Number": 4.5,
+  "Sale Price": 31999,
+  "Actual Price": 34999,
+  "No of Reviews": 4,
+  "No of Ratings": 429
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d861d"
+  },
+  "Product Name": "Nokia 105 Single SIM, Keypad Mobile Phone with Wireless FM Radio",
+  "Offer": "6% off",
+  "Camera": "0MP Front Camera",
+  "Memory": "32 MB RAM | 32 MB ROM",
+  "Battery": "800 mAh Lithium Ion Battery",
+  "Display": "4.5 cm (1.77 inch) QVGA Display",
+  "Rating Number": 4,
+  "Sale Price": 1395,
+  "Actual Price": 1499,
+  "No of Reviews": 480338,
+  "No of Ratings": 4881
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d861e"
+  },
+  "Product Name": "REDMI 15 5G (Sandy Purple, 128 GB)",
+  "Offer": "13% off",
+  "Camera": "50MP Rear Camera",
+  "Memory": "6 GB RAM | 128 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.53 cm (6.9 inch) Display",
+  "Rating Number": 4.3,
+  "Sale Price": 17279,
+  "Actual Price": 19999,
+  "No of Reviews": 4,
+  "No of Ratings": 129
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d861f"
+  },
+  "Product Name": "OPPO K14x 5G (Prism Violet, 128 GB)",
+  "Offer": "5% off",
+  "Camera": "50MP + 2MP | 5MP; f/2.2; FOV 77°; 3P lens",
+  "Memory": "6 GB RAM | 128 GB ROM",
+  "Battery": "6500 mAh Battery",
+  "Display": "17.14 cm (6.75 inch) HD+ Display",
+  "Rating Number": 4.3,
+  "Sale Price": 18999,
+  "Actual Price": 19999,
+  "No of Reviews": 4,
+  "No of Ratings": 83
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8620"
+  },
+  "Product Name": "vivo T5 Pro 5G (Glacier Blue, 256 GB)",
+  "Offer": "45% off",
+  "Camera": "50MP + 2MP | 32MP Front Camera",
+  "Memory": "8 GB RAM | 256 GB ROM",
+  "Battery": "9020 mAh Battery",
+  "Display": "17.35 cm (6.83 inch) Full HD+ AMOLED Display",
+  "Rating Number": 4.4,
+  "Sale Price": 33999,
+  "Actual Price": 61999,
+  "No of Reviews": 4,
+  "No of Ratings": 310
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8621"
+  },
+  "Product Name": "MOTOROLA Moto A100",
+  "Offer": "30% off",
+  "Camera": "0MP | 0MP Front Camera",
+  "Memory": "4 MB RAM | 36 MB ROM | Expandable Upto 0 MB",
+  "Battery": "800 mAh Battery",
+  "Display": "3.66 cm (1.44 inch) HQVGA Display",
+  "Rating Number": 3.8,
+  "Sale Price": 1049,
+  "Actual Price": 1499,
+  "No of Reviews": 3,
+  "No of Ratings": 21
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8622"
+  },
+  "Product Name": "REDMI 15 5G (Frosted White, 128 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP Rear Camera",
+  "Memory": "6 GB RAM | 128 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.53 cm (6.9 inch) Display",
+  "Rating Number": 4.3,
+  "Sale Price": 19990,
+  "Actual Price": 19999,
+  "No of Reviews": 4,
+  "No of Ratings": 129
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8623"
+  },
+  "Product Name": "Samsung Galaxy F70e 5G (Spotlight Blue, 128 GB)",
+  "Offer": "21% off",
+  "Camera": "50MP + 2MP | 8MP Front Camera",
+  "Memory": "6 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+  "Battery": "6000 mAh Li-ion Battery",
+  "Display": "17.12 cm (6.74 inch) HD+ Display",
+  "Rating Number": 4.2,
+  "Sale Price": 16499,
+  "Actual Price": 20999,
+  "No of Reviews": 4,
+  "No of Ratings": 181
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8624"
+  },
+  "Product Name": "REDMI A5 (Jaisalmer Gold, 64 GB)",
+  "Offer": "No Offer",
+  "Camera": "32MP Rear Camera | 8MP Front Camera",
+  "Memory": "3 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+  "Battery": "5200 mAh Battery",
+  "Display": "17.48 cm (6.88 inch) HD+ Display",
+  "Rating Number": 4.1,
+  "Sale Price": 8999,
+  "Actual Price": 8999,
+  "No of Reviews": 4,
+  "No of Ratings": 412
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8625"
+  },
+  "Product Name": "MOTOROLA G96 5G (Pantone Dresden Blue, 128 GB)",
+  "Offer": "9% off",
+  "Camera": "50MP + 8MP | 32MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM",
+  "Battery": "5500 mAh Battery",
+  "Display": "16.94 cm (6.67 inch) Full HD+ Display",
+  "Rating Number": 4.4,
+  "Sale Price": 18999,
+  "Actual Price": 20999,
+  "No of Reviews": 4,
+  "No of Ratings": 4994
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8626"
+  },
+  "Product Name": "MOTOROLA g35 5G (Midnight Black, 128 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP + 8MP | 16MP Front Camera",
+  "Memory": "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.07 cm (6.72 inch) Full HD+ Display",
+  "Rating Number": 4.2,
+  "Sale Price": 12499,
+  "Actual Price": 12499,
+  "No of Reviews": 4,
+  "No of Ratings": 8496
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8627"
+  },
+  "Product Name": "Nokia All-New 105 Single Sim Keypad Phone with Built-in UPI Payments",
+  "Offer": "16% off",
+  "Camera": "0MP | 0MP Front Camera",
+  "Memory": "32 MB RAM | 32 MB ROM",
+  "Battery": "1000 mAh Battery",
+  "Display": "4.5 cm (1.77 inch) Display",
+  "Rating Number": 3.7,
+  "Sale Price": 1331,
+  "Actual Price": 1599,
+  "No of Reviews": 3,
+  "No of Ratings": 6916
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8628"
+  },
+  "Product Name": "Samsung Galaxy A35 5G (Awesome Navy, 128 GB)",
+  "Offer": "44% off",
+  "Camera": "50MP + 8MP + 5MP | 13MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+  "Battery": "5000 mAh Battery",
+  "Display": "16.76 cm (6.6 inch) Full HD+ Display",
+  "Rating Number": 4.4,
+  "Sale Price": 18999,
+  "Actual Price": 33999,
+  "No of Reviews": 4,
+  "No of Ratings": 5022
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8629"
+  },
+  "Product Name": "itel it5262",
+  "Offer": "11% off",
+  "Camera": "0.8MP Rear Camera",
+  "Memory": "4 MB RAM | 4 MB ROM | Expandable Upto 32 GB",
+  "Battery": "2000 mAh Battery",
+  "Display": "6.1 cm (2.4 inch) Display",
+  "Rating Number": 4,
+  "Sale Price": 1411,
+  "Actual Price": 1599,
+  "No of Reviews": 42980,
+  "No of Ratings": 159
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d862a"
+  },
+  "Product Name": "Samsung Galaxy A17 5G (Black, 256 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP + 5MP + 2MP | 13MP Front Camera",
+  "Memory": "8 GB RAM | 256 GB ROM | Expandable Upto 2 TB",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) Full HD+ Display",
+  "Rating Number": 4.3,
+  "Sale Price": 25499,
+  "Actual Price": 25499,
+  "No of Reviews": 4,
+  "No of Ratings": 88
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d862b"
+  },
+  "Product Name": "realme P4x 5G (Lake Green, 128 GB)",
+  "Offer": "4% off",
+  "Camera": "50MP + 2MP | 8MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.07 cm (6.72 inch) Full HD+ Display",
+  "Rating Number": 4.3,
+  "Sale Price": 22499,
+  "Actual Price": 23499,
+  "No of Reviews": 4,
+  "No of Ratings": 401
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d862c"
+  },
+  "Product Name": "MOTOROLA Edge 70 Fusion (Pantone COUNTRY AIR, 256 GB)",
+  "Offer": "34% off",
+  "Camera": "50MP + 13MP | 32MP Front Camera",
+  "Memory": "8 GB RAM | 256 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.27 cm (6.8 inch) Super HD Display",
+  "Rating Number": 4.4,
+  "Sale Price": 29999,
+  "Actual Price": 45999,
+  "No of Reviews": 4,
+  "No of Ratings": 841
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d862d"
+  },
+  "Product Name": "Samsung Galaxy A17 5G (Blue, 128 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP + 5MP + 2MP | 13MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) Full HD+ Display",
+  "Rating Number": 4.3,
+  "Sale Price": 22499,
+  "Actual Price": 22499,
+  "No of Reviews": 4,
+  "No of Ratings": 88
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d862e"
+  },
+  "Product Name": "Samsung Galaxy A36 5G (Awesome Lavender, 128 GB)",
+  "Offer": "28% off",
+  "Camera": "50MP + 8MP | 12MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) Full HD+ Display",
+  "Rating Number": 4.3,
+  "Sale Price": 28349,
+  "Actual Price": 39499,
+  "No of Reviews": 4,
+  "No of Ratings": 177
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d862f"
+  },
+  "Product Name": "Ai+ Pulse 2 (Blue, 128 GB)",
+  "Offer": "8% off",
+  "Camera": "50MP Rear Camera | 8MP Front Camera",
+  "Memory": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+  "Battery": "6000 mAh Battery",
+  "Display": "17.13 cm (6.745 inch) HD+ Display",
+  "Rating Number": 3.8,
+  "Sale Price": 10999,
+  "Actual Price": 11999,
+  "No of Reviews": 3,
+  "No of Ratings": 226
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8630"
+  },
+  "Product Name": "POCO C85 5G Charger in the Box (Power Black, 128 GB)",
+  "Offer": "32% off",
+  "Camera": "50MP Rear Camera | 8MP Front Camera",
+  "Memory": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+  "Battery": "6000 mAh Lithium-Ion Polymer Battery",
+  "Display": "17.53 cm (6.9 inch) HD+ Display",
+  "Rating Number": 4.3,
+  "Sale Price": 15499,
+  "Actual Price": 22999,
+  "No of Reviews": 4,
+  "No of Ratings": 38
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8631"
+  },
+  "Product Name": "Kechaoda K115",
+  "Offer": "31% off",
+  "Camera": "0.3MP Rear Camera",
+  "Memory": "32 MB RAM | 32 MB ROM",
+  "Battery": "850 mAh Battery",
+  "Display": "3.66 cm (1.44 inch) QVGA Display",
+  "Rating Number": 4.1,
+  "Sale Price": 1029,
+  "Actual Price": 1499,
+  "No of Reviews": 4,
+  "No of Ratings": 2732
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8632"
+  },
+  "Product Name": "Kechaoda K115",
+  "Offer": "32% off",
+  "Camera": "0.3MP + 0MP | 0MP Front Camera",
+  "Memory": "32 MB RAM | 32 MB ROM | Expandable Upto 32 GB",
+  "Battery": "850 mAh Battery",
+  "Display": "3.66 cm (1.44 inch) QVGA Display",
+  "Rating Number": 4.1,
+  "Sale Price": 1014,
+  "Actual Price": 1499,
+  "No of Reviews": 4,
+  "No of Ratings": 2732
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8633"
+  },
+  "Product Name": "Kechaoda K115",
+  "Offer": "31% off",
+  "Camera": "0.3MP + 0MP | 0MP Front Camera",
+  "Memory": "32 MB RAM | 32 MB ROM | Expandable Upto 16 GB",
+  "Battery": "850 mAh Battery",
+  "Display": "3.66 cm (1.44 inch) QVGA Display",
+  "Rating Number": 4.1,
+  "Sale Price": 1029,
+  "Actual Price": 1499,
+  "No of Reviews": 4,
+  "No of Ratings": 2732
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8634"
+  },
+  "Product Name": "MOTOROLA Edge 60 Fusion 5G (PANTONE Mykonos Blue, 256 GB)",
+  "Offer": "3% off",
+  "Camera": "50MP + 13MP | 32MP Front Camera",
+  "Memory": "12 GB RAM | 256 GB ROM | Expandable Upto 1 TB",
+  "Battery": "5500 mAh Battery",
+  "Display": "16.94 cm (6.67 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 26999,
+  "Actual Price": 27999,
+  "No of Reviews": 4,
+  "No of Ratings": 2651
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8635"
+  },
+  "Product Name": "GFive A1-C",
+  "Offer": "45% off",
+  "Camera": "0.3MP Rear Camera",
+  "Memory": "32 MB RAM | 32 MB ROM",
+  "Battery": "1000 mAh Battery",
+  "Display": "4.57 cm (1.8 inch) Display",
+  "Rating Number": 3.7,
+  "Sale Price": 549,
+  "Actual Price": 999,
+  "No of Reviews": 3,
+  "No of Ratings": 41
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8636"
+  },
+  "Product Name": "Samsung Galaxy A07 LTE (Green, 64 GB)",
+  "Offer": "5% off",
+  "Camera": "50MP + 2MP",
+  "Memory": "4 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) HD+ Display",
+  "Rating Number": 4.2,
+  "Sale Price": 9954,
+  "Actual Price": 10499,
+  "No of Reviews": 4,
+  "No of Ratings": 27
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8637"
+  },
+  "Product Name": "Nokia 106 4G Dual Sim Keypad Phone, Built-in UPI Payments App, MP3 Player",
+  "Offer": "23% off",
+  "Camera": "0MP | 0MP Front Camera",
+  "Memory": "32 MB RAM | 32 MB ROM",
+  "Battery": "1450 mAh Battery",
+  "Display": "4.5 cm (1.77 inch) Display",
+  "Rating Number": 3.9,
+  "Sale Price": 2299,
+  "Actual Price": 2999,
+  "No of Reviews": 3,
+  "No of Ratings": 350
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8638"
+  },
+  "Product Name": "OnePlus Nord CE6 Lite (Hyper Black, 256 GB)",
+  "Offer": "16% off",
+  "Camera": "50MP Rear Camera | 50MP Front Camera",
+  "Memory": "8 GB RAM | 256 GB ROM | Expandable Upto 128 GB",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.07 cm (6.72 inch) Full HD+ Display",
+  "Rating Number": 4.4,
+  "Sale Price": 30977,
+  "Actual Price": 36999,
+  "No of Reviews": 4,
+  "No of Ratings": 2
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8639"
+  },
+  "Product Name": "vivo T4 5G (Phantom Grey, 256 GB)",
+  "Offer": "3% off",
+  "Camera": "50MP (OIS) + 2MP | 32MP Front Camera",
+  "Memory": "8 GB RAM | 256 GB ROM",
+  "Battery": "7300 mAh Battery",
+  "Display": "17.2 cm (6.77 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 26999,
+  "Actual Price": 27999,
+  "No of Reviews": 4,
+  "No of Ratings": 4388
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d863a"
+  },
+  "Product Name": "vivo T4 5G (Phantom Grey, 128 GB)",
+  "Offer": "3% off",
+  "Camera": "50MP (OIS) + 2MP | 32MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM",
+  "Battery": "7300 mAh Battery",
+  "Display": "17.2 cm (6.77 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 24999,
+  "Actual Price": 25999,
+  "No of Reviews": 4,
+  "No of Ratings": 4388
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d863b"
+  },
+  "Product Name": "Tecno Pova 7 Pro 5G (Neon Cyan, 256 GB)",
+  "Offer": "19% off",
+  "Camera": "64MP + 8MP | 13MP Front Camera",
+  "Memory": "8 GB RAM | 256 GB ROM",
+  "Battery": "6000 mAh Battery",
+  "Display": "17.22 cm (6.78 inch) Full HD+ AMOLED Display",
+  "Rating Number": 4.4,
+  "Sale Price": 19374,
+  "Actual Price": 23999,
+  "No of Reviews": 4,
+  "No of Ratings": 553
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d863c"
+  },
+  "Product Name": "Kechaoda A26",
+  "Offer": "38% off",
+  "Camera": "800 mAh Battery",
+  "Memory": "32 MB RAM | 32 MB ROM | Expandable Upto 16 GB",
+  "Battery": "3 Months Company Warranty",
+  "Display": "1.68 cm (0.66 inch) FWVGA Display",
+  "Rating Number": 4,
+  "Sale Price": 929,
+  "Actual Price": 1499,
+  "No of Reviews": 431005,
+  "No of Ratings": 1657
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d863d"
+  },
+  "Product Name": "realme P4x 5G (Matte Silver, 128 GB)",
+  "Offer": "4% off",
+  "Camera": "50MP + 2MP | 8MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.07 cm (6.72 inch) Full HD+ Display",
+  "Rating Number": 4.3,
+  "Sale Price": 22499,
+  "Actual Price": 23499,
+  "No of Reviews": 4,
+  "No of Ratings": 401
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d863e"
+  },
+  "Product Name": "Samsung Galaxy A06 5G (Black, 128 GB)",
+  "Offer": "9% off",
+  "Camera": "50MP + 2MP | 8MP Front Camera",
+  "Memory": "4 GB RAM | 128 GB ROM",
+  "Battery": "5000 mAh Li-ion Battery",
+  "Display": "17.02 cm (6.7 inch) HD+ Display",
+  "Rating Number": 4.1,
+  "Sale Price": 13999,
+  "Actual Price": 15499,
+  "No of Reviews": 4,
+  "No of Ratings": 233
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d863f"
+  },
+  "Product Name": "Nokia 130 Music Dual Sim with Music Player, Dedicated Music Buttons",
+  "Offer": "10% off",
+  "Camera": "0MP Front Camera",
+  "Memory": "4 MB RAM | 4 MB ROM",
+  "Battery": "1450 mAh Battery",
+  "Display": "6.1 cm (2.4 inch) Display",
+  "Rating Number": 3.9,
+  "Sale Price": 1971,
+  "Actual Price": 2199,
+  "No of Reviews": 3,
+  "No of Ratings": 1420
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8640"
+  },
+  "Product Name": "Samsung Guru Music 2 B310ED Blue",
+  "Offer": "19% off",
+  "Camera": "800 mAh Battery",
+  "Memory": "16 MB RAM | 32 MB ROM",
+  "Battery": "1-year manufacturer warranty for the device and 6 months for in-box accessories (including batteries, chargers, and headsets) from the date of purchase",
+  "Display": "5.08 cm (2 inch) NA Display",
+  "Rating Number": {
+    "$numberDouble": "NaN"
+  },
+  "Sale Price": 2001,
+  "Actual Price": 2498,
+  "No of Reviews": null,
+  "No of Ratings": null
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8641"
+  },
+  "Product Name": "Samsung Galaxy F36 5G (Violet, 128 GB)",
+  "Offer": "6% off",
+  "Camera": "50MP + 8MP + 2MP | 13MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) Full HD+ Display",
+  "Rating Number": 4.2,
+  "Sale Price": 22999,
+  "Actual Price": 24499,
+  "No of Reviews": 4,
+  "No of Ratings": 427
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8642"
+  },
+  "Product Name": "Kechaoda K115",
+  "Offer": "32% off",
+  "Camera": "0.3MP + 0MP | 0MP Front Camera",
+  "Memory": "32 MB RAM | 32 MB ROM | Expandable Upto 32 GB",
+  "Battery": "850 mAh Battery",
+  "Display": "3.66 cm (1.44 inch) QVGA Display",
+  "Rating Number": 4.1,
+  "Sale Price": 1014,
+  "Actual Price": 1499,
+  "No of Reviews": 4,
+  "No of Ratings": 2732
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8643"
+  },
+  "Product Name": "Samsung Galaxy A06 5G (Black, 128 GB)",
+  "Offer": "9% off",
+  "Camera": "50MP + 2MP | 8MP Front Camera",
+  "Memory": "4 GB RAM | 128 GB ROM",
+  "Battery": "5000 mAh Li-ion Battery",
+  "Display": "17.02 cm (6.7 inch) HD+ Display",
+  "Rating Number": 4.1,
+  "Sale Price": 13999,
+  "Actual Price": 15499,
+  "No of Reviews": 4,
+  "No of Ratings": 233
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8644"
+  },
+  "Product Name": "vivo T5 Pro 5G (Cosmic Black, 256 GB)",
+  "Offer": "45% off",
+  "Camera": "50MP + 2MP | 32MP Front Camera",
+  "Memory": "8 GB RAM | 256 GB ROM",
+  "Battery": "9020 mAh Battery",
+  "Display": "17.35 cm (6.83 inch) Full HD+ AMOLED Display",
+  "Rating Number": 4.4,
+  "Sale Price": 33999,
+  "Actual Price": 61999,
+  "No of Reviews": 4,
+  "No of Ratings": 310
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8645"
+  },
+  "Product Name": "Kechaoda K115",
+  "Offer": "32% off",
+  "Camera": "0.3MP + 0MP | 0MP Front Camera",
+  "Memory": "32 MB RAM | 32 MB ROM | Expandable Upto 32 GB",
+  "Battery": "850 mAh Battery",
+  "Display": "3.66 cm (1.44 inch) QVGA Display",
+  "Rating Number": 4.1,
+  "Sale Price": 1014,
+  "Actual Price": 1499,
+  "No of Reviews": 4,
+  "No of Ratings": 2732
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8646"
+  },
+  "Product Name": "Samsung Galaxy M17 5G (Moonlight Silver, 128 GB)",
+  "Offer": "8% off",
+  "Camera": "50MP Rear Camera",
+  "Memory": "6 GB RAM | 128 GB ROM",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 16528,
+  "Actual Price": 17999,
+  "No of Reviews": 4,
+  "No of Ratings": 32
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8647"
+  },
+  "Product Name": "POCO C81 (Elite Black, 64 GB)",
+  "Offer": "45% off",
+  "Camera": "13MP Rear Camera | 8MP Front Camera",
+  "Memory": "4 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+  "Battery": "6300 mAh Lithium-Ion Polymer Battery",
+  "Display": "17.53 cm (6.9 inch) Display",
+  "Rating Number": 3.7,
+  "Sale Price": 10999,
+  "Actual Price": 19999,
+  "No of Reviews": 3,
+  "No of Ratings": 5
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8648"
+  },
+  "Product Name": "realme Narzo 100 Lite 5G (Thunder Black, 128 GB)",
+  "Offer": "44% off",
+  "Camera": "50MP Rear Camera",
+  "Memory": "4 GB RAM | 128 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.27 cm (6.8 inch) Display",
+  "Rating Number": 4,
+  "Sale Price": 15549,
+  "Actual Price": 27999,
+  "No of Reviews": 4186,
+  "No of Ratings": 10
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8649"
+  },
+  "Product Name": "POCO C75 5G (Silver Stardust, 64 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP Rear Camera | 5MP Front Camera",
+  "Memory": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+  "Battery": "5160 mAh Battery",
+  "Display": "17.48 cm (6.88 inch) HD+ Display",
+  "Rating Number": 4.2,
+  "Sale Price": 10999,
+  "Actual Price": 10999,
+  "No of Reviews": 4,
+  "No of Ratings": 6805
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d864a"
+  },
+  "Product Name": "POCO C85 5G Charger in the Box (Power Black, 128 GB)",
+  "Offer": "33% off",
+  "Camera": "50MP Rear Camera | 8MP Front Camera",
+  "Memory": "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+  "Battery": "6000 mAh Lithium-Ion Polymer Battery",
+  "Display": "17.53 cm (6.9 inch) HD+ Display",
+  "Rating Number": 3.8,
+  "Sale Price": 13999,
+  "Actual Price": 20999,
+  "No of Reviews": 3,
+  "No of Ratings": 103
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d864b"
+  },
+  "Product Name": "Ai+ Pulse 1 (Pink, 128 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP Rear Camera | 5MP Front Camera",
+  "Memory": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.13 cm (6.745 inch) HD+ Display",
+  "Rating Number": 4,
+  "Sale Price": 9999,
+  "Actual Price": 9999,
+  "No of Reviews": 48996,
+  "No of Ratings": 567
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d864c"
+  },
+  "Product Name": "vivo T4 5G (Phantom Grey, 256 GB)",
+  "Offer": "3% off",
+  "Camera": "50MP (OIS) + 2MP | 32MP Front Camera",
+  "Memory": "8 GB RAM | 256 GB ROM",
+  "Battery": "7300 mAh Battery",
+  "Display": "17.2 cm (6.77 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 26999,
+  "Actual Price": 27999,
+  "No of Reviews": 4,
+  "No of Ratings": 4388
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d864d"
+  },
+  "Product Name": "REDMI Note 15 SE 5G Snapdragon (Frosted White, 128 GB)",
+  "Offer": "30% off",
+  "Camera": "50MP Rear Camera | 20MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+  "Battery": "5800 mAh Lithium-Ion Polymer Battery",
+  "Display": "17.2 cm (6.77 inch) Full HD+ AMOLED Display",
+  "Rating Number": 4.3,
+  "Sale Price": 24999,
+  "Actual Price": 35999,
+  "No of Reviews": 4,
+  "No of Ratings": 100
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d864e"
+  },
+  "Product Name": "OnePlus Nord CE6 Lite (Vivid Mint, 128 GB)",
+  "Offer": "25% off",
+  "Camera": "50MP Rear Camera | 50MP Front Camera",
+  "Memory": "6 GB RAM | 128 GB ROM | Expandable Upto 128 GB",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.07 cm (6.72 inch) Full HD+ Display",
+  "Rating Number": 3.9,
+  "Sale Price": 23789,
+  "Actual Price": 31999,
+  "No of Reviews": 3,
+  "No of Ratings": 5
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d864f"
+  },
+  "Product Name": "POCO C75 5G (Enchanted Green, 64 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP Rear Camera | 5MP Front Camera",
+  "Memory": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+  "Battery": "5160 mAh Battery",
+  "Display": "17.48 cm (6.88 inch) HD+ Display",
+  "Rating Number": 4.2,
+  "Sale Price": 10999,
+  "Actual Price": 10999,
+  "No of Reviews": 4,
+  "No of Ratings": 6805
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8650"
+  },
+  "Product Name": "Samsung Galaxy A36 5G (Awesome Black, 256 GB)",
+  "Offer": "17% off",
+  "Camera": "50MP + 8MP | 12MP Front Camera",
+  "Memory": "8 GB RAM | 256 GB ROM",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) Full HD+ Display",
+  "Rating Number": 4.3,
+  "Sale Price": 32290,
+  "Actual Price": 38999,
+  "No of Reviews": 4,
+  "No of Ratings": 177
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8651"
+  },
+  "Product Name": "Samsung Galaxy A17 5G (Black, 128 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP + 5MP + 2MP | 13MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) Full HD+ Display",
+  "Rating Number": 4.3,
+  "Sale Price": 22499,
+  "Actual Price": 22499,
+  "No of Reviews": 4,
+  "No of Ratings": 88
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8652"
+  },
+  "Product Name": "Apple iPhone 16 (Black, 128 GB)",
+  "Offer": "No Offer",
+  "Camera": "48MP + 12MP | 12MP Front Camera",
+  "Memory": "128 GB ROM",
+  "Battery": "A18 Chip, 6 Core Processor Processor",
+  "Display": "15.49 cm (6.1 inch) Super Retina XDR Display",
+  "Rating Number": 4.6,
+  "Sale Price": 69900,
+  "Actual Price": 69900,
+  "No of Reviews": 4,
+  "No of Ratings": 6817
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8653"
+  },
+  "Product Name": "MOTOROLA Edge 70 Fusion (Pantone COUNTRY AIR, 256 GB)",
+  "Offer": "34% off",
+  "Camera": "50MP + 13MP | 32MP Front Camera",
+  "Memory": "12 GB RAM | 256 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.27 cm (6.8 inch) Super HD Display",
+  "Rating Number": 4.3,
+  "Sale Price": 32999,
+  "Actual Price": 49999,
+  "No of Reviews": 4,
+  "No of Ratings": 162
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8654"
+  },
+  "Product Name": "vivo T4 5G (Phantom Grey, 256 GB)",
+  "Offer": "3% off",
+  "Camera": "50MP (OIS) + 2MP | 32MP Front Camera",
+  "Memory": "12 GB RAM | 256 GB ROM",
+  "Battery": "7300 mAh Battery",
+  "Display": "17.2 cm (6.77 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 28999,
+  "Actual Price": 29999,
+  "No of Reviews": 4,
+  "No of Ratings": 1364
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8655"
+  },
+  "Product Name": "vivo T4 5G (Emerald Blaze, 256 GB)",
+  "Offer": "3% off",
+  "Camera": "50MP (OIS) + 2MP | 32MP Front Camera",
+  "Memory": "12 GB RAM | 256 GB ROM",
+  "Battery": "7300 mAh Battery",
+  "Display": "17.2 cm (6.77 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 28999,
+  "Actual Price": 29999,
+  "No of Reviews": 4,
+  "No of Ratings": 1364
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8656"
+  },
+  "Product Name": "Apple iPhone 16 (Pink, 128 GB)",
+  "Offer": "No Offer",
+  "Camera": "48MP + 12MP | 12MP Front Camera",
+  "Memory": "128 GB ROM",
+  "Battery": "A18 Chip, 6 Core Processor Processor",
+  "Display": "15.49 cm (6.1 inch) Super Retina XDR Display",
+  "Rating Number": 4.6,
+  "Sale Price": 69900,
+  "Actual Price": 69900,
+  "No of Reviews": 4,
+  "No of Ratings": 6817
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8657"
+  },
+  "Product Name": "MOTOROLA Moto A100",
+  "Offer": "30% off",
+  "Camera": "0MP | 0MP Front Camera",
+  "Memory": "4 MB RAM | 36 MB ROM | Expandable Upto 0 MB",
+  "Battery": "800 mAh Battery",
+  "Display": "3.66 cm (1.44 inch) HQVGA Display",
+  "Rating Number": 3.8,
+  "Sale Price": 1049,
+  "Actual Price": 1499,
+  "No of Reviews": 3,
+  "No of Ratings": 21
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8658"
+  },
+  "Product Name": "IQOO Z11x 5G (Prismatic Green, 128 GB)",
+  "Offer": "24% off",
+  "Camera": "50MP Rear Camera",
+  "Memory": "6 GB RAM | 128 GB ROM",
+  "Battery": "7200 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) Display",
+  "Rating Number": 4.3,
+  "Sale Price": 21750,
+  "Actual Price": 28999,
+  "No of Reviews": 4,
+  "No of Ratings": 43
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8659"
+  },
+  "Product Name": "MOTOROLA Edge 70 (PANTONE Lily Pad, 256 GB)",
+  "Offer": "14% off",
+  "Camera": "50MP + 50MP | 50MP Front Camera",
+  "Memory": "8 GB RAM | 256 GB ROM",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 29999,
+  "Actual Price": 34999,
+  "No of Reviews": 4,
+  "No of Ratings": 377
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d865a"
+  },
+  "Product Name": "POCO M7 Pro 5G (Olive Twilight, 128 GB)",
+  "Offer": "21% off",
+  "Camera": "50MP + 2MP | 20MP Front Camera",
+  "Memory": "6 GB RAM | 128 GB ROM",
+  "Battery": "5110 mAh Battery",
+  "Display": "16.94 cm (6.67 inch) Full HD+ Display",
+  "Rating Number": 4.3,
+  "Sale Price": 14999,
+  "Actual Price": 18999,
+  "No of Reviews": 4,
+  "No of Ratings": 2881
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d865b"
+  },
+  "Product Name": "Samsung Guru Music 2 B310ED",
+  "Offer": "19% off",
+  "Camera": "2MP Rear Camera",
+  "Memory": "32 MB RAM | 32 MB ROM",
+  "Battery": "800 mAh Battery",
+  "Display": "4.57 cm (1.8 inch) Display",
+  "Rating Number": 3.1,
+  "Sale Price": 2001,
+  "Actual Price": 2498,
+  "No of Reviews": 3,
+  "No of Ratings": 2234
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d865c"
+  },
+  "Product Name": "itel Ace2 Keypad Mobile| 1000 mAh Battery|Expandable Storage 32GB",
+  "Offer": "20% off",
+  "Camera": "0MP Front Camera",
+  "Memory": "4 MB RAM | 4 MB ROM | Expandable Upto 32 GB",
+  "Battery": "1000 mAh Lithium Ion Battery",
+  "Display": "4.57 cm (1.8 inch) Quarter QVGA Display",
+  "Rating Number": 4,
+  "Sale Price": 949,
+  "Actual Price": 1199,
+  "No of Reviews": 46129,
+  "No of Ratings": 384
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d865d"
+  },
+  "Product Name": "Ai+ Nova 2 Ultra 5G (Purple, 128 GB)",
+  "Offer": "30% off",
+  "Camera": "50MP + 8MP | 13MP Front Camera",
+  "Memory": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+  "Battery": "6000 mAh Li-polymer Battery",
+  "Display": "17.22 cm (6.78 inch) Full HD+ AMOLED Display",
+  "Rating Number": 4.3,
+  "Sale Price": 17999,
+  "Actual Price": 25999,
+  "No of Reviews": 4,
+  "No of Ratings": 124
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d865e"
+  },
+  "Product Name": "vivo T4R 5G (Arctic White, 256 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP (OIS) + 2MP | 32MP Front Camera",
+  "Memory": "8 GB RAM | 256 GB ROM",
+  "Battery": "5700 mAh Battery",
+  "Display": "17.2 cm (6.77 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 24999,
+  "Actual Price": 24999,
+  "No of Reviews": 4,
+  "No of Ratings": 2812
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d865f"
+  },
+  "Product Name": "REDMI 15 5G (Sandy Purple, 256 GB)",
+  "Offer": "2% off",
+  "Camera": "50MP Rear Camera",
+  "Memory": "8 GB RAM | 256 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.53 cm (6.9 inch) Display",
+  "Rating Number": 4.3,
+  "Sale Price": 22499,
+  "Actual Price": 22999,
+  "No of Reviews": 4,
+  "No of Ratings": 210
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8660"
+  },
+  "Product Name": "realme Narzo 100 Lite 5G (Frost Silver, 128 GB)",
+  "Offer": "44% off",
+  "Camera": "50MP Rear Camera",
+  "Memory": "4 GB RAM | 128 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.27 cm (6.8 inch) Display",
+  "Rating Number": 4,
+  "Sale Price": 15499,
+  "Actual Price": 27999,
+  "No of Reviews": 4186,
+  "No of Ratings": 10
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8661"
+  },
+  "Product Name": "HMD 150 music DS",
+  "Offer": "21% off",
+  "Camera": "0.08MP Rear Camera",
+  "Memory": "8 MB RAM | 4 MB ROM",
+  "Battery": "2500 mAh Battery",
+  "Display": "6.1 cm (2.4 inch) Display",
+  "Rating Number": 4.2,
+  "Sale Price": 2274,
+  "Actual Price": 2899,
+  "No of Reviews": 4,
+  "No of Ratings": 4
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8662"
+  },
+  "Product Name": "vivo T4R 5G (Twilight Blue, 256 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP (OIS) + 2MP | 32MP Front Camera",
+  "Memory": "8 GB RAM | 256 GB ROM",
+  "Battery": "5700 mAh Battery",
+  "Display": "17.2 cm (6.77 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 24999,
+  "Actual Price": 24999,
+  "No of Reviews": 4,
+  "No of Ratings": 2812
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8663"
+  },
+  "Product Name": "Nokia 106 Single Sim Keypad Phone with Built-in UPI App, MP3 Player",
+  "Offer": "22% off",
+  "Camera": "1000 mAh Battery",
+  "Memory": "32 MB RAM | 32 MB ROM",
+  "Battery": "SC6531E Processor",
+  "Display": "17.02 cm (6.7 inch) Display",
+  "Rating Number": 3.9,
+  "Sale Price": 1318,
+  "Actual Price": 1699,
+  "No of Reviews": 3,
+  "No of Ratings": 472
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8664"
+  },
+  "Product Name": "vivo T4R 5G (Twilight Blue, 256 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP (OIS) + 2MP | 32MP Front Camera",
+  "Memory": "12 GB RAM | 256 GB ROM",
+  "Battery": "5700 mAh Battery",
+  "Display": "17.2 cm (6.77 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 26999,
+  "Actual Price": 26999,
+  "No of Reviews": 4,
+  "No of Ratings": 288
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8665"
+  },
+  "Product Name": "Samsung Galaxy A17 5G (Blue, 128 GB)",
+  "Offer": "2% off",
+  "Camera": "50MP + 5MP + 2MP | 13MP Front Camera",
+  "Memory": "6 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) Full HD+ Display",
+  "Rating Number": 4.3,
+  "Sale Price": 20499,
+  "Actual Price": 20999,
+  "No of Reviews": 4,
+  "No of Ratings": 78
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8666"
+  },
+  "Product Name": "IQOO Z11x 5G (Prismatic Green, 128 GB)",
+  "Offer": "24% off",
+  "Camera": "50MP Rear Camera",
+  "Memory": "8 GB RAM | 128 GB ROM",
+  "Battery": "7200 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 23415,
+  "Actual Price": 30999,
+  "No of Reviews": 4,
+  "No of Ratings": 65
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8667"
+  },
+  "Product Name": "MOTOROLA Edge 60 Fusion 5G (PANTONE Amazonite, 256 GB)",
+  "Offer": "3% off",
+  "Camera": "50MP + 13MP | 32MP Front Camera",
+  "Memory": "12 GB RAM | 256 GB ROM | Expandable Upto 1 TB",
+  "Battery": "5500 mAh Battery",
+  "Display": "16.94 cm (6.67 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 26999,
+  "Actual Price": 27999,
+  "No of Reviews": 4,
+  "No of Ratings": 2651
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8668"
+  },
+  "Product Name": "Samsung Galaxy M06 5G (Sage Green, 64 GB)",
+  "Offer": "1% off",
+  "Camera": "50MP Rear Camera",
+  "Memory": "4 GB RAM | 64 GB ROM",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) Display",
+  "Rating Number": 4.1,
+  "Sale Price": 12296,
+  "Actual Price": 12499,
+  "No of Reviews": 4,
+  "No of Ratings": 39
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8669"
+  },
+  "Product Name": "Infinix GT 30 5G+ Pulse Green 128 (Pulse Green, 128 GB)",
+  "Offer": "12% off",
+  "Camera": "64MP + 8MP | 13MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM",
+  "Battery": "5500 mAh Battery",
+  "Display": "17.22 cm (6.78 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 21999,
+  "Actual Price": 24999,
+  "No of Reviews": 4,
+  "No of Ratings": 49
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d866a"
+  },
+  "Product Name": "vivo T4 Pro 5G (Nitro Blue, 256 GB)",
+  "Offer": "13% off",
+  "Camera": "50MP + 2MP + 50MP | 32MP Front Camera",
+  "Memory": "12 GB RAM | 256 GB ROM",
+  "Battery": "6500 mAh Battery",
+  "Display": "17.2 cm (6.77 inch) Display",
+  "Rating Number": 4.5,
+  "Sale Price": 31999,
+  "Actual Price": 36999,
+  "No of Reviews": 4,
+  "No of Ratings": 423
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d866b"
+  },
+  "Product Name": "MOTOROLA Edge 70 Fusion (Pantone BLUE SURF, 128 GB)",
+  "Offer": "37% off",
+  "Camera": "50MP + 13MP | 32MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.27 cm (6.8 inch) Super HD Display",
+  "Rating Number": 4.4,
+  "Sale Price": 26999,
+  "Actual Price": 42999,
+  "No of Reviews": 4,
+  "No of Ratings": 841
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d866c"
+  },
+  "Product Name": "vivo T4 5G (Emerald Blaze, 128 GB)",
+  "Offer": "3% off",
+  "Camera": "50MP (OIS) + 2MP | 32MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM",
+  "Battery": "7300 mAh Battery",
+  "Display": "17.2 cm (6.77 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 24999,
+  "Actual Price": 25999,
+  "No of Reviews": 4,
+  "No of Ratings": 4388
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d866d"
+  },
+  "Product Name": "POCO C85x Charger in the Box (Emerald Green, 64 GB)",
+  "Offer": "40% off",
+  "Camera": "32MP Rear Camera",
+  "Memory": "4 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+  "Battery": "6300 mAh Lithium-Ion Polymer Battery",
+  "Display": "17.53 cm (6.9 inch) HD+ Display",
+  "Rating Number": 4.1,
+  "Sale Price": 12499,
+  "Actual Price": 20999,
+  "No of Reviews": 4,
+  "No of Ratings": 77
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d866e"
+  },
+  "Product Name": "Micromax X778",
+  "Offer": "30% off",
+  "Camera": "0.3MP Rear Camera",
+  "Memory": "32 MB RAM | 32 MB ROM",
+  "Battery": "2700 mAh Battery",
+  "Display": "6.1 cm (2.4 inch) Display",
+  "Rating Number": 3.9,
+  "Sale Price": 1389,
+  "Actual Price": 1999,
+  "No of Reviews": 3,
+  "No of Ratings": 440
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d866f"
+  },
+  "Product Name": "MOTOROLA Edge 70 (PANTONE Lily Pad, 256 GB)",
+  "Offer": "14% off",
+  "Camera": "50MP + 50MP | 50MP Front Camera",
+  "Memory": "8 GB RAM | 256 GB ROM",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 29999,
+  "Actual Price": 34999,
+  "No of Reviews": 4,
+  "No of Ratings": 377
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8670"
+  },
+  "Product Name": "Samsung Galaxy S25 5G (Silver Shadow, 256 GB)",
+  "Offer": "22% off",
+  "Camera": "50MP + 10MP + 12MP | 12MP Front Camera",
+  "Memory": "12 GB RAM | 256 GB ROM",
+  "Battery": "4000 mAh Battery",
+  "Display": "15.75 cm (6.2 inch) Full HD+ Display",
+  "Rating Number": 4.6,
+  "Sale Price": 62999,
+  "Actual Price": 80999,
+  "No of Reviews": 4,
+  "No of Ratings": 398
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8671"
+  },
+  "Product Name": "realme Narzo 100 Lite 5G (Thunder Black, 64 GB)",
+  "Offer": "37% off",
+  "Camera": "50MP Rear Camera",
+  "Memory": "4 GB RAM | 64 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.27 cm (6.8 inch) Display",
+  "Rating Number": 4,
+  "Sale Price": 14481,
+  "Actual Price": 22999,
+  "No of Reviews": 4186,
+  "No of Ratings": 10
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8672"
+  },
+  "Product Name": "Samsung Galaxy A06 5G (Light Green, 64 GB)",
+  "Offer": "7% off",
+  "Camera": "50MP + 50MP | 2MP + 2MP Dual Front Camera",
+  "Memory": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) HD+ Display",
+  "Rating Number": 4.1,
+  "Sale Price": 12882,
+  "Actual Price": 13999,
+  "No of Reviews": 4,
+  "No of Ratings": 233
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8673"
+  },
+  "Product Name": "vivo T4 Pro 5G (Nitro Blue, 256 GB)",
+  "Offer": "13% off",
+  "Camera": "50MP + 2MP + 50MP | 32MP Front Camera",
+  "Memory": "12 GB RAM | 256 GB ROM",
+  "Battery": "6500 mAh Battery",
+  "Display": "17.2 cm (6.77 inch) Display",
+  "Rating Number": 4.5,
+  "Sale Price": 31999,
+  "Actual Price": 36999,
+  "No of Reviews": 4,
+  "No of Ratings": 423
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8674"
+  },
+  "Product Name": "vivo T4R 5G (Arctic White, 256 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP (OIS) + 2MP | 32MP Front Camera",
+  "Memory": "12 GB RAM | 256 GB ROM",
+  "Battery": "5700 mAh Battery",
+  "Display": "17.2 cm (6.77 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 26999,
+  "Actual Price": 26999,
+  "No of Reviews": 4,
+  "No of Ratings": 288
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8675"
+  },
+  "Product Name": "POCO M7 Plus 5G (Aqua Blue, 128 GB)",
+  "Offer": "5% off",
+  "Camera": "50MP AI Dual Camera",
+  "Memory": "8 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.53 cm (6.9 inch) Display",
+  "Rating Number": 4.2,
+  "Sale Price": 16999,
+  "Actual Price": 17999,
+  "No of Reviews": 4,
+  "No of Ratings": 332
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8676"
+  },
+  "Product Name": "Samsung Guru Music 2 B310ED",
+  "Offer": "19% off",
+  "Camera": "2MP Rear Camera",
+  "Memory": "32 MB RAM | 32 MB ROM",
+  "Battery": "800 mAh Battery",
+  "Display": "4.57 cm (1.8 inch) Display",
+  "Rating Number": 3.1,
+  "Sale Price": 2001,
+  "Actual Price": 2498,
+  "No of Reviews": 3,
+  "No of Ratings": 2234
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8677"
+  },
+  "Product Name": "Nokia 106 Single Sim Keypad Phone with Built-in UPI App, MP3 Player",
+  "Offer": "22% off",
+  "Camera": "1000 mAh Battery",
+  "Memory": "32 MB RAM | 32 MB ROM",
+  "Battery": "SC6531E Processor",
+  "Display": "17.02 cm (6.7 inch) Display",
+  "Rating Number": 3.9,
+  "Sale Price": 1318,
+  "Actual Price": 1699,
+  "No of Reviews": 3,
+  "No of Ratings": 472
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8678"
+  },
+  "Product Name": "Samsung Galaxy S25 Edge 5G (Titanium Jetblack, 256 GB)",
+  "Offer": "36% off",
+  "Camera": "200MP + 12MP | 12MP Front Camera",
+  "Memory": "12 GB RAM | 256 GB ROM",
+  "Battery": "3900 mAh Battery",
+  "Display": "16.91 cm (6.657 inch) Quad HD+ Display",
+  "Rating Number": 4.5,
+  "Sale Price": 69999,
+  "Actual Price": 109999,
+  "No of Reviews": 4,
+  "No of Ratings": 10
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8679"
+  },
+  "Product Name": "MOTOROLA Edge 70 Fusion (Pantone BLUE SURF, 128 GB)",
+  "Offer": "37% off",
+  "Camera": "50MP + 13MP | 32MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.27 cm (6.8 inch) Super HD Display",
+  "Rating Number": 4.4,
+  "Sale Price": 26999,
+  "Actual Price": 42999,
+  "No of Reviews": 4,
+  "No of Ratings": 841
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d867a"
+  },
+  "Product Name": "Micromax X778",
+  "Offer": "30% off",
+  "Camera": "0.3MP Rear Camera",
+  "Memory": "32 MB RAM | 32 MB ROM",
+  "Battery": "2700 mAh Battery",
+  "Display": "6.1 cm (2.4 inch) Display",
+  "Rating Number": 3.9,
+  "Sale Price": 1389,
+  "Actual Price": 1999,
+  "No of Reviews": 3,
+  "No of Ratings": 440
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d867b"
+  },
+  "Product Name": "realme Narzo 90x 5G (Maroon Red, 128 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP Rear Camera | 8MP Front Camera",
+  "Memory": "4 GB RAM | 128 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.27 cm (6.8 inch) HD+ Display",
+  "Rating Number": 4.1,
+  "Sale Price": 15893,
+  "Actual Price": 15999,
+  "No of Reviews": 4,
+  "No of Ratings": 14
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d867c"
+  },
+  "Product Name": "REDMI Note 15 SE 5G (Crimson Reserve, 256 GB)",
+  "Offer": "28% off",
+  "Camera": "50MP Rear Camera | 20MP Front Camera",
+  "Memory": "8 GB RAM | 256 GB ROM | Expandable Upto 1 TB",
+  "Battery": "5800 mAh Lithium-Ion Polymer Battery",
+  "Display": "17.2 cm (6.77 inch) Full HD+ AMOLED Display",
+  "Rating Number": 4.3,
+  "Sale Price": 26999,
+  "Actual Price": 37999,
+  "No of Reviews": 4,
+  "No of Ratings": 100
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d867d"
+  },
+  "Product Name": "realme Narzo 90x 5G (Nitro Blue, 128 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP Rear Camera",
+  "Memory": "8 GB RAM | 128 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.27 cm (6.8 inch) Display",
+  "Rating Number": 4.3,
+  "Sale Price": 17998,
+  "Actual Price": 17999,
+  "No of Reviews": 4,
+  "No of Ratings": 47
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d867e"
+  },
+  "Product Name": "Infinix GT 30 5G+ Cyber Blue 256 (Cyber Blue, 256 GB)",
+  "Offer": "11% off",
+  "Camera": "64MP + 8MP | 13MP Front Camera",
+  "Memory": "8 GB RAM | 256 GB ROM",
+  "Battery": "5500 mAh Battery",
+  "Display": "17.22 cm (6.78 inch) Display",
+  "Rating Number": 4.5,
+  "Sale Price": 23999,
+  "Actual Price": 26999,
+  "No of Reviews": 4,
+  "No of Ratings": 21
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d867f"
+  },
+  "Product Name": "Samsung M36 5G (Serene Green / Light Green, 128 GB)",
+  "Offer": "30% off",
+  "Camera": "50MP Rear Camera",
+  "Memory": "8 GB RAM | 128 GB ROM",
+  "Battery": "5000 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) Display",
+  "Rating Number": 4.1,
+  "Sale Price": 18660,
+  "Actual Price": 26999,
+  "No of Reviews": 4,
+  "No of Ratings": 54
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8680"
+  },
+  "Product Name": "Ai+ Pulse 2 (Green, 64 GB)",
+  "Offer": "9% off",
+  "Camera": "50MP Rear Camera | 8MP Front Camera",
+  "Memory": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+  "Battery": "6000 mAh Battery",
+  "Display": "17.13 cm (6.745 inch) HD+ Display",
+  "Rating Number": 4.4,
+  "Sale Price": 9999,
+  "Actual Price": 10999,
+  "No of Reviews": 4,
+  "No of Ratings": 136
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8681"
+  },
+  "Product Name": "OPPO K13 5G with 7000mAh and 80W SUPERVOOC Charger In-The-Box (Prism Black, 128 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP + 2MP | 16MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "16.94 cm (6.67 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 22999,
+  "Actual Price": 22999,
+  "No of Reviews": 4,
+  "No of Ratings": 4942
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8682"
+  },
+  "Product Name": "vivo T4R 5G (Twilight Blue, 128 GB)",
+  "Offer": "2% off",
+  "Camera": "50MP (OIS) + 2MP | 32MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM",
+  "Battery": "5700 mAh Battery",
+  "Display": "17.2 cm (6.77 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 22999,
+  "Actual Price": 23499,
+  "No of Reviews": 4,
+  "No of Ratings": 2812
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8683"
+  },
+  "Product Name": "OPPO K13 5G with 7000mAh and 80W SUPERVOOC Charger In-The-Box (Icy Purple, 128 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP + 2MP | 16MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "16.94 cm (6.67 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 22999,
+  "Actual Price": 22999,
+  "No of Reviews": 4,
+  "No of Ratings": 4942
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8684"
+  },
+  "Product Name": "Jmax Super 2",
+  "Offer": "40% off",
+  "Camera": "0.3MP Rear Camera",
+  "Memory": "32 MB RAM | 32 MB ROM",
+  "Battery": "1100 mAh Battery",
+  "Display": "4.57 cm (1.8 inch) Display",
+  "Rating Number": 3.9,
+  "Sale Price": 599,
+  "Actual Price": 999,
+  "No of Reviews": 3,
+  "No of Ratings": 192
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8685"
+  },
+  "Product Name": "MOTOROLA Edge 60 Fusion 5G (PANTONE Amazonite, 128 GB)",
+  "Offer": "8% off",
+  "Camera": "50MP + 13MP | 32MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+  "Battery": "5500 mAh Battery",
+  "Display": "16.94 cm (6.67 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 22999,
+  "Actual Price": 24999,
+  "No of Reviews": 4,
+  "No of Ratings": 7045
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8686"
+  },
+  "Product Name": "HMD 105 Dual Sim Keypad Phone with Built-in UPI App, Wireless FM Radio",
+  "Offer": "28% off",
+  "Camera": "1000 mAh Battery",
+  "Memory": "4 MB RAM | 4 MB ROM | Expandable Upto 32 GB",
+  "Battery": "SC6531E Processor",
+  "Display": "5.08 cm (2 inch) Display",
+  "Rating Number": 3.8,
+  "Sale Price": 1065,
+  "Actual Price": 1499,
+  "No of Reviews": 3,
+  "No of Ratings": 388
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8687"
+  },
+  "Product Name": "Ai+ Nova 2 Ultra 5G (Purple, 128 GB)",
+  "Offer": "25% off",
+  "Camera": "50MP + 8MP | 13MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+  "Battery": "6000 mAh Li-polymer Battery",
+  "Display": "17.22 cm (6.78 inch) Full HD+ AMOLED Display",
+  "Rating Number": 4.3,
+  "Sale Price": 19999,
+  "Actual Price": 26999,
+  "No of Reviews": 4,
+  "No of Ratings": 111
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8688"
+  },
+  "Product Name": "Apple iPhone 17 Pro Max (Cosmic Orange, 256 GB)",
+  "Offer": "No Offer",
+  "Camera": "48MP + 48MP + 48MP | 18MP Front Camera",
+  "Memory": "256 GB ROM",
+  "Battery": "A19 Chip, 6 Core Processor Processor",
+  "Display": "17.53 cm (6.9 inch) Super Retina XDR Display",
+  "Rating Number": 4.8,
+  "Sale Price": 149900,
+  "Actual Price": 149900,
+  "No of Reviews": 4,
+  "No of Ratings": 88
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8689"
+  },
+  "Product Name": "OnePlus Nord CE6 Lite (Hyper Black, 128 GB)",
+  "Offer": "25% off",
+  "Camera": "50MP Rear Camera | 50MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM | Expandable Upto 128 GB",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.07 cm (6.72 inch) Full HD+ Display",
+  "Rating Number": 4.4,
+  "Sale Price": 25390,
+  "Actual Price": 33999,
+  "No of Reviews": 4,
+  "No of Ratings": 2
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d868a"
+  },
+  "Product Name": "Micromax X778",
+  "Offer": "32% off",
+  "Camera": "0.3MP Rear Camera",
+  "Memory": "32 MB RAM | 32 MB ROM",
+  "Battery": "2700 mAh Battery",
+  "Display": "6.1 cm (2.4 inch) Display",
+  "Rating Number": 3.9,
+  "Sale Price": 1340,
+  "Actual Price": 1999,
+  "No of Reviews": 3,
+  "No of Ratings": 440
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d868b"
+  },
+  "Product Name": "IQOO Z10 Lite 5G (Titanium Blue, 128 GB)",
+  "Offer": "6% off",
+  "Camera": "50MP Rear Camera",
+  "Memory": "4 GB RAM | 128 GB ROM",
+  "Battery": "6000 mAh Battery",
+  "Display": "17.12 cm (6.74 inch) Display",
+  "Rating Number": 4.2,
+  "Sale Price": 15965,
+  "Actual Price": 16999,
+  "No of Reviews": 4,
+  "No of Ratings": 141
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d868c"
+  },
+  "Product Name": "itel Ace2 Power",
+  "Offer": "No Offer",
+  "Camera": "2500 mAh Battery",
+  "Memory": "32 MB RAM | 32 MB ROM | Expandable Upto 32 GB",
+  "Battery": "12+1 Months Domestic Warranty for device\n6 months for accessories",
+  "Display": "4.57 cm (1.8 inch) Display",
+  "Rating Number": 4.1,
+  "Sale Price": 1399,
+  "Actual Price": 1399,
+  "No of Reviews": 4,
+  "No of Ratings": 55
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d868d"
+  },
+  "Product Name": "IQOO Z10 Lite 5G (Cyber Green, 256 GB)",
+  "Offer": "2% off",
+  "Camera": "50MP Rear Camera",
+  "Memory": "8 GB RAM | 256 GB ROM",
+  "Battery": "6000 mAh Battery",
+  "Display": "17.12 cm (6.74 inch) Display",
+  "Rating Number": 4.3,
+  "Sale Price": 21900,
+  "Actual Price": 22500,
+  "No of Reviews": 4,
+  "No of Ratings": 128
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d868e"
+  },
+  "Product Name": "itel Ace2 Power",
+  "Offer": "No Offer",
+  "Camera": "2500 mAh Battery",
+  "Memory": "32 MB RAM | 32 MB ROM | Expandable Upto 32 GB",
+  "Battery": "12+1 Months Domestic Warranty for device\n6 months for accessories",
+  "Display": "4.57 cm (1.8 inch) Display",
+  "Rating Number": 4.1,
+  "Sale Price": 1399,
+  "Actual Price": 1399,
+  "No of Reviews": 4,
+  "No of Ratings": 55
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d868f"
+  },
+  "Product Name": "IQOO Z11x 5G (Prismatic Green, 256 GB)",
+  "Offer": "17% off",
+  "Camera": "50MP Rear Camera",
+  "Memory": "8 GB RAM | 256 GB ROM",
+  "Battery": "7200 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 27989,
+  "Actual Price": 33999,
+  "No of Reviews": 4,
+  "No of Ratings": 65
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8690"
+  },
+  "Product Name": "MOTOROLA Edge 60 Pro (Pantone Sparkling Grape, 256 GB)",
+  "Offer": "18% off",
+  "Camera": "50MP + 50MP + 10MP | 50MP Front Camera",
+  "Memory": "8 GB RAM | 256 GB ROM",
+  "Battery": "6000 mAh Battery",
+  "Display": "17.02 cm (6.7 inch) Display",
+  "Rating Number": 4.3,
+  "Sale Price": 29999,
+  "Actual Price": 36999,
+  "No of Reviews": 4,
+  "No of Ratings": 3832
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8691"
+  },
+  "Product Name": "Motorola Moto A10E",
+  "Offer": "20% off",
+  "Camera": "0MP | 0MP Front Camera",
+  "Memory": "4 MB RAM | 2 MB ROM | Expandable Upto 32 GB",
+  "Battery": "800 mAh Battery",
+  "Display": "4.57 cm (1.8 inch) HVGA Display",
+  "Rating Number": 4,
+  "Sale Price": 1231,
+  "Actual Price": 1549,
+  "No of Reviews": 49527,
+  "No of Ratings": 633
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8692"
+  },
+  "Product Name": "Samsung Galaxy S26 Ultra 5G (Sky Blue, 256 GB)",
+  "Offer": "6% off",
+  "Camera": "200MP + 50MP | 12MP Front Camera",
+  "Memory": "12 GB RAM | 256 GB ROM",
+  "Battery": "5000 mAh Li-ion Battery",
+  "Display": "17.53 cm (6.9 inch) Quad HD+ Display",
+  "Rating Number": 4.6,
+  "Sale Price": 130999,
+  "Actual Price": 139999,
+  "No of Reviews": 4,
+  "No of Ratings": 131
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8693"
+  },
+  "Product Name": "LAVA A1 Josh BOL",
+  "Offer": "23% off",
+  "Camera": "0MP | 0MP Front Camera",
+  "Memory": "4 MB RAM | 4 MB ROM | Expandable Upto 32 GB",
+  "Battery": "1000 mAh Battery",
+  "Display": "5.08 cm (2 inch) Quarter QVGA Display",
+  "Rating Number": 4.1,
+  "Sale Price": 1069,
+  "Actual Price": 1399,
+  "No of Reviews": 4,
+  "No of Ratings": 1071
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8694"
+  },
+  "Product Name": "POCO M8 Charger in the Box (Frost Silver, 128 GB)",
+  "Offer": "23% off",
+  "Camera": "50MP Rear Camera | 20MP Front Camera",
+  "Memory": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+  "Battery": "5520 mAh Battery",
+  "Display": "17.2 cm (6.77 inch) Full HD+ Display",
+  "Rating Number": 4.3,
+  "Sale Price": 19999,
+  "Actual Price": 25999,
+  "No of Reviews": 4,
+  "No of Ratings": 144
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8695"
+  },
+  "Product Name": "REDMI 15 5G (Sandy Purple, 128 GB)",
+  "Offer": "4% off",
+  "Camera": "50MP Rear Camera",
+  "Memory": "8 GB RAM | 128 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.53 cm (6.9 inch) Display",
+  "Rating Number": 4.3,
+  "Sale Price": 19989,
+  "Actual Price": 20999,
+  "No of Reviews": 4,
+  "No of Ratings": 210
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8696"
+  },
+  "Product Name": "REDMI 15 5G (Midnight Black, 128 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP Rear Camera",
+  "Memory": "6 GB RAM | 128 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.53 cm (6.9 inch) Display",
+  "Rating Number": 4.3,
+  "Sale Price": 19990,
+  "Actual Price": 19999,
+  "No of Reviews": 4,
+  "No of Ratings": 129
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8697"
+  },
+  "Product Name": "MOTOROLA Edge 70 Fusion (Pantone ORIENT BLUE, 128 GB)",
+  "Offer": "37% off",
+  "Camera": "50MP + 13MP | 32MP Front Camera",
+  "Memory": "8 GB RAM | 128 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.27 cm (6.8 inch) Super HD Display",
+  "Rating Number": 4.4,
+  "Sale Price": 26999,
+  "Actual Price": 42999,
+  "No of Reviews": 4,
+  "No of Ratings": 841
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8698"
+  },
+  "Product Name": "realme P4 Lite (Beach Gold, 128 GB)",
+  "Offer": "No Offer",
+  "Camera": "13MP Rear Camera | 5MP Front Camera",
+  "Memory": "4 GB RAM | 128 GB ROM",
+  "Battery": "6300 mAh Battery",
+  "Display": "17.14 cm (6.75 inch) HD+ Display",
+  "Rating Number": 4.1,
+  "Sale Price": 13999,
+  "Actual Price": 13999,
+  "No of Reviews": 4,
+  "No of Ratings": 124
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d8699"
+  },
+  "Product Name": "realme P4 Lite (Sea Blue, 128 GB)",
+  "Offer": "No Offer",
+  "Camera": "13MP Rear Camera | 5MP Front Camera",
+  "Memory": "4 GB RAM | 128 GB ROM",
+  "Battery": "6300 mAh Battery",
+  "Display": "17.14 cm (6.75 inch) HD+ Display",
+  "Rating Number": 4.1,
+  "Sale Price": 13999,
+  "Actual Price": 13999,
+  "No of Reviews": 4,
+  "No of Ratings": 124
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d869a"
+  },
+  "Product Name": "REDMI 15 5G (Frosted White, 128 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP Rear Camera",
+  "Memory": "6 GB RAM | 128 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "17.53 cm (6.9 inch) Display",
+  "Rating Number": 4.3,
+  "Sale Price": 19990,
+  "Actual Price": 19999,
+  "No of Reviews": 4,
+  "No of Ratings": 129
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d869b"
+  },
+  "Product Name": "OPPO K13 5G with 7000mAh and 80W SUPERVOOC Charger In-The-Box (Icy Purple, 256 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP + 2MP | 16MP Front Camera",
+  "Memory": "8 GB RAM | 256 GB ROM",
+  "Battery": "7000 mAh Battery",
+  "Display": "16.94 cm (6.67 inch) Display",
+  "Rating Number": 4.4,
+  "Sale Price": 24999,
+  "Actual Price": 24999,
+  "No of Reviews": 4,
+  "No of Ratings": 4942
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d869c"
+  },
+  "Product Name": "OPPO Reno14 5G (Forest Green, 512 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP + 8MP + 50MP | 50MP Front Camera",
+  "Memory": "12 GB RAM | 512 GB ROM",
+  "Battery": "6000 mAh Battery",
+  "Display": "16.74 cm (6.59 inch) Display",
+  "Rating Number": 4.5,
+  "Sale Price": 47999,
+  "Actual Price": 47999,
+  "No of Reviews": 4,
+  "No of Ratings": 359
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d869d"
+  },
+  "Product Name": "OPPO Reno14 5G (Pearl White, 256 GB)",
+  "Offer": "No Offer",
+  "Camera": "50MP + 8MP + 50MP | 50MP Front Camera",
+  "Memory": "12 GB RAM | 256 GB ROM",
+  "Battery": "6000 mAh Battery",
+  "Display": "16.74 cm (6.59 inch) Display",
+  "Rating Number": 4.5,
+  "Sale Price": 44999,
+  "Actual Price": 44999,
+  "No of Reviews": 4,
+  "No of Ratings": 359
+},
+{
+  "_id": {
+    "$oid": "6a16d25811f37362908d869e"
+  },
+  "Product Name": "REDMI A5 (Jaisalmer Gold, 64 GB)",
+  "Offer": "No Offer",
+  "Camera": "32MP Rear Camera | 8MP Front Camera",
+  "Memory": "3 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+  "Battery": "5200 mAh Battery",
+  "Display": "17.48 cm (6.88 inch) HD+ Display",
+  "Rating Number": 4.1,
+  "Sale Price": 8999,
+  "Actual Price": 8999,
+  "No of Reviews": 4,
+  "No of Ratings": 412
+}]
