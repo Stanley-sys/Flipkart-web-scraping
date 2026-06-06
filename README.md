@@ -99,8 +99,7 @@ You can view the full dataset in [flipkart_database.mobile_phones.json](flipkart
 ### Clone Repository
 
 ```bash
-git clone <repository-link>
-cd Flipkart-web-scraping
+git clone https://github.com/your-username/Flipkart-web-scraping.git
 ```
 
 ### Install Dependencies
