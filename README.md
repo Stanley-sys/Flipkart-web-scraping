@@ -35,7 +35,7 @@ The dataset used in this project is created through web scraping from Flipkart's
 ```
 
 **Sample Documents:**
-You can view the full dataset in [mobile_phones.json](mobile_phones.json).
+You can view the full dataset in [flipkart_database.mobile_phones.json](flipkart_database.mobile_phones.json).
 
 ## Tools & Technologies Used
 
